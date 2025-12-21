@@ -7,8 +7,9 @@ author: Admin
 tags:
   - Gereja
   - Warta Paroki
-banner: ''
+banner: /images/inline-petani-bawang-681x454-1766325991360-1q8b95.webp
 published: true
+updatedAt: '2025-12-21T14:19:39.938Z'
 ---
 assdsadasdasdasda
 
