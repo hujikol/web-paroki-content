@@ -8,9 +8,9 @@ tags:
   - Gereja
   - Warta Paroki
 banner: >-
-  /images/banners/uistkzsjphuuaivjn-yvkbqoxwfaa7g6kthtm9-t2ha-1766315696743-gtkb3m.webp
+  /images/banners/show-your-love-with-our-miso-tasty-bento-box-lunch-ideas-1766315995355-wegbnf.webp
 published: true
-updatedAt: '2025-12-21T11:15:02.756Z'
+updatedAt: '2025-12-21T11:19:59.614Z'
 ---
 ## Ziarah OMK Paroki Brayut ke Taman Doa Maria Gantang Paroki Brayut
 
