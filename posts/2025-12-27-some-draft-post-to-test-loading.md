@@ -5,13 +5,15 @@ description: ''
 publishedAt: '2025-12-27T12:11:33.199Z'
 author: Admin Paroki
 tags:
-  - Berita
-  - Gereja
-  - Event
-  - Warta Paroki
-  - Kegiatan
+  - Wacana
 banner: ''
-published: false
-updatedAt: '2025-12-27T12:16:49.238Z'
+published: true
+updatedAt: '2025-12-27T13:35:39.931Z'
 ---
-some draft post to test loading
+**some draft post to test loading**
+
+# Heading 1
+
+## Heading 2
+
+### heading 3
