@@ -10,7 +10,7 @@ tags:
   - Gereja
 banner: ''
 published: true
-updatedAt: '2025-12-27T15:41:00.912Z'
+updatedAt: '2025-12-27T16:23:17.774Z'
 ---
 asd
 
