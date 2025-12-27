@@ -7,5 +7,6 @@ author: Nicholas Nanda
 tags: []
 banner: ''
 published: true
+updatedAt: '2025-12-27T09:53:11.376Z'
 ---
-Example of published Post
+Example of published Post new
