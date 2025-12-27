@@ -10,7 +10,7 @@ tags:
   - Gereja
 banner: ''
 published: true
-updatedAt: '2025-12-27T16:23:17.774Z'
+updatedAt: '2025-12-27T16:26:08.999Z'
 ---
 asd
 
@@ -31,6 +31,22 @@ asd
 </div>
 
 ## asdasd
+
+<div align="center">
+  ~~==cvbsfbafsdgafg==~~
+</div>
+
+<div align="center">
+  `asdasdaasdqqweqwe`
+</div>
+
+<div align="right">
+  <div align="center">
+    * vasdasdvsadv
+    * vfxbcasdfvasdv
+    * asdasdasd
+  </div>
+</div>
 
 ~~==cvbsfbafsdgafg==~~
 
