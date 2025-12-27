@@ -9,7 +9,9 @@ tags:
   - Gereja
   - Event
   - Warta Paroki
+  - Kegiatan
 banner: ''
 published: false
+updatedAt: '2025-12-27T12:16:49.238Z'
 ---
 some draft post to test loading
