@@ -10,7 +10,7 @@ tags:
   - Gereja
 banner: ''
 published: true
-updatedAt: '2025-12-27T15:34:52.174Z'
+updatedAt: '2025-12-27T15:41:00.912Z'
 ---
 asd
 
@@ -21,11 +21,11 @@ asd
     ### asdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
     <div align="right">
-      ### sdfsdfsdfsdfsdfsdfsdfsdfsdf
+      ## sdfsdfsdfsdfsdfsdfsdfsdfsdf
     </div>
 
     <div align="left">
-      ### sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+      ## sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
     </div>
   </div>
 </div>
@@ -41,18 +41,12 @@ asd
 * df
 * i
 
-
-
 1. ifgtch
 2. asd
 3. as
 
-
-
 * [x] das
 * [ ] da
 * [ ] sd
-
-
 
 [test link](http://localhost:3000/posts/test-markdown-funtion "test link")
