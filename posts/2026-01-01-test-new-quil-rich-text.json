@@ -10,6 +10,287 @@
       "Gereja"
     ],
     "banner": "/images/inline-petani-bawang-681x454-1766325991360-1q8b95.webp",
-    "published": true
+    "published": true,
+    "updatedAt": "2026-01-01T13:34:01.677Z"
+  },
+  "content": {
+    "ops": [
+      {
+        "insert": "Heading 1"
+      },
+      {
+        "attributes": {
+          "header": 1
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Heading 2"
+      },
+      {
+        "attributes": {
+          "header": 2
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Heading 3"
+      },
+      {
+        "attributes": {
+          "header": 3
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Heading 4/Normal"
+      },
+      {
+        "attributes": {
+          "header": 4
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Heading 5"
+      },
+      {
+        "attributes": {
+          "header": 5
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Heading 6"
+      },
+      {
+        "attributes": {
+          "header": 6
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "underline": true,
+          "strike": true,
+          "italic": true,
+          "bold": true
+        },
+        "insert": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "insert": ", "
+      },
+      {
+        "attributes": {
+          "color": "#e60000"
+        },
+        "insert": "consectetur adipiscing elit"
+      },
+      {
+        "insert": ". "
+      },
+      {
+        "attributes": {
+          "color": "#9933ff"
+        },
+        "insert": "In posuere te"
+      },
+      {
+        "insert": "mpus "
+      },
+      {
+        "attributes": {
+          "background": "#ffff00"
+        },
+        "insert": "mauris vitae pellentesque."
+      },
+      {
+        "insert": " Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. Maecenas varius nibh sit amet mattis pulvinar. \npower"
+      },
+      {
+        "attributes": {
+          "script": "super"
+        },
+        "insert": "2"
+      },
+      {
+        "insert": " sub"
+      },
+      {
+        "attributes": {
+          "script": "sub"
+        },
+        "insert": "2"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": {
+          "video": "https://www.youtube.com/embed/NnrFIKVnK-4?showinfo=0"
+        }
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "link": "https://youtu.be/NnrFIKVnK-4?si=ziYq7c7u8ZrChNPB"
+        },
+        "insert": "Youtube Link"
+      },
+      {
+        "attributes": {
+          "align": "center"
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque."
+      },
+      {
+        "attributes": {
+          "align": "center"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "align": "right"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque. Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. Maecenas varius nibh sit amet mattis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque. Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "In posuere tempus mauris vitae pellentesque."
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "indent": 1,
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui."
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "indent": 1,
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui."
+      },
+      {
+        "attributes": {
+          "indent": 2,
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "indent": 3,
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "asd"
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "indent": 1,
+          "list": "ordered"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui."
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "list": "bullet"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "list": "bullet"
+        },
+        "insert": "\n\n"
+      },
+      {
+        "insert": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque. Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. "
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "Maecenas varius nibh sit amet mattis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque. Sed vitae ipsum placerat, iaculis nisl dictum, lobortis dui. Maecenas varius nibh sit amet mattis pulvinar. "
+      },
+      {
+        "attributes": {
+          "align": "justify",
+          "code-block": "plain"
+        },
+        "insert": "\n"
+      }
+    ]
   }
 }
