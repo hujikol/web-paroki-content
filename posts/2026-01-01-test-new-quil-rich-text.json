@@ -11,7 +11,7 @@
     ],
     "banner": "/images/inline-petani-bawang-681x454-1766325991360-1q8b95.webp",
     "published": true,
-    "updatedAt": "2026-01-01T13:34:01.677Z"
+    "updatedAt": "2026-01-01T13:42:18.855Z"
   },
   "content": {
     "ops": [
@@ -289,6 +289,15 @@
           "align": "justify",
           "code-block": "plain"
         },
+        "insert": "\n"
+      },
+      {
+        "attributes": {
+          "align": "justify"
+        },
+        "insert": "\n"
+      },
+      {
         "insert": "\n"
       }
     ]
