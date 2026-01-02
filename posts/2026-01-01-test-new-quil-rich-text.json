@@ -11,10 +11,18 @@
     ],
     "banner": "/images/inline-petani-bawang-681x454-1766325991360-1q8b95.webp",
     "published": true,
-    "updatedAt": "2026-01-02T22:43:44.817Z"
+    "updatedAt": "2026-01-02T23:21:58.213Z"
   },
   "content": {
     "ops": [
+      {
+        "insert": {
+          "image": "/images/inline-eo186xaoyqc9ct2-1766827697826-m03iq0.webp"
+        }
+      },
+      {
+        "insert": "This is a test image.\n"
+      },
       {
         "insert": {
           "video": "https://www.youtube.com/embed/dQw4w9WgXcQ?showinfo=0"
