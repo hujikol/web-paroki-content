@@ -9,9 +9,9 @@
     "lingkungan": [
       {
         "id": "141c762f-802d-4dad-ae34-fd1274044cc4",
-        "name": "test lingkungan",
-        "chief": "test",
-        "address": "asd",
+        "name": "test nama lingkungan",
+        "chief": "nama ketua lingkungan",
+        "address": "alamat",
         "email": "asd@mail.com",
         "phone": "123124"
       }
