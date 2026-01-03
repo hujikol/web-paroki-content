@@ -15,5 +15,12 @@
       "description": null
     }
   ],
-  "timKerja": []
+  "timKerja": [
+    {
+      "id": "211e14d1-1b82-45f9-9342-32bac94792c1",
+      "name": "test",
+      "role": "testttt",
+      "division": "test123"
+    }
+  ]
 }
