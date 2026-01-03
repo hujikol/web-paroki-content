@@ -10,5 +10,11 @@
         "chief": "test"
       }
     ]
+  },
+  {
+    "id": "8d5250fb-50a6-4ce8-a5de-f3f13935b907",
+    "name": "tefdgs",
+    "coordinator": "vcbasd",
+    "lingkungan": []
   }
 ]
