@@ -7,5 +7,14 @@
     "location": "test tempat",
     "description": "testing kegiatan",
     "category": "kegiatan"
+  },
+  {
+    "id": "3ccf9630-ee58-492c-baed-7611222e24e4",
+    "title": "Past event tetst",
+    "date": "2026-01-01",
+    "time": "08:03",
+    "location": "test location",
+    "description": "desc test",
+    "category": "kegiatan"
   }
 ]
