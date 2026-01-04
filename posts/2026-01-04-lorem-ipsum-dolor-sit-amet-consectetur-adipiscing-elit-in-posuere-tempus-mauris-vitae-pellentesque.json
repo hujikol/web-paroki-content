@@ -1,0 +1,46 @@
+{
+  "frontmatter": {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.",
+    "slug": "lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-in-posuere-tempus-mauris-vitae-pellentesque",
+    "description": "",
+    "publishedAt": "2026-01-04T11:17:07.762Z",
+    "author": "Nicholas Nanda",
+    "tags": [
+      "Berita",
+      "Warta Paroki"
+    ],
+    "category": "Warta Paroki",
+    "banner": "/images/inline-testheroimage-1767525338157-qge6c0.webp",
+    "published": true
+  },
+  "content": {
+    "ops": [
+      {
+        "attributes": {
+          "bold": true
+        },
+        "insert": "Lorem ipsum dolor sit amet"
+      },
+      {
+        "insert": ", consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n\nIn posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque."
+      },
+      {
+        "attributes": {
+          "blockquote": true
+        },
+        "insert": "\n"
+      },
+      {
+        "insert": "\n"
+      },
+      {
+        "insert": {
+          "image": "/images/inline-testheroimage-1767525338157-qge6c0.webp"
+        }
+      },
+      {
+        "insert": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere tempus mauris vitae pellentesque.\n\n"
+      }
+    ]
+  }
+}
