@@ -1,10 +1,11 @@
 {
-    "categories": [
-        "Kuliner",
-        "Fashion",
-        "Jasa",
-        "Kerajinan",
-        "Pertanian",
-        "Lainnya"
-    ]
+  "categories": [
+    "Fashion",
+    "Jasa",
+    "Kerajinan",
+    "Kuliner",
+    "Lainnya",
+    "Pertanian",
+    "Seni"
+  ]
 }
