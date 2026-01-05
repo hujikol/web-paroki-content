@@ -16,5 +16,16 @@
     "location": "test location",
     "description": "desc test",
     "category": "kegiatan"
+  },
+  {
+    "id": "dummy-cta-test",
+    "title": "Pendaftaran Lomba Paduan Suara",
+    "date": "2026-01-15",
+    "time": "09:00",
+    "location": "Aula Paroki",
+    "description": "Lomba paduan suara antar wilayah dalam rangka HUT Paroki.",
+    "category": "Kegiatan",
+    "imageUrl": "https://images.unsplash.com/photo-1584448141569-69f342da535c?q=80&w=2070&auto=format&fit=crop",
+    "linkUrl": "https://forms.google.com/example"
   }
 ]
