@@ -5,8 +5,9 @@
     "description": "",
     "publishedAt": "2026-01-04T11:37:34.589Z",
     "author": "Nicholas Nanda",
-    "tags": [],
-    "category": "Berita",
+    "categories": [
+      "Berita"
+    ],
     "banner": "/images/inline-uistkzsjphuuaivjn-yvkbqoxwfaa7g6kthtm9-t2ha-1766835053287-0qxq06.webp",
     "published": true
   },
