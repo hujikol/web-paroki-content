@@ -6,7 +6,7 @@
     "time": "08:00",
     "location": "test tempat",
     "description": "testing kegiatan",
-    "category": "kegiatan"
+    "category": "Kegiatan"
   },
   {
     "id": "3ccf9630-ee58-492c-baed-7611222e24e4",
@@ -15,7 +15,7 @@
     "time": "08:03",
     "location": "test location",
     "description": "desc test",
-    "category": "kegiatan"
+    "category": "Kegiatan"
   },
   {
     "id": "dummy-cta-test",
