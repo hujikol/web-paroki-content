@@ -29,5 +29,16 @@
     "category": "Kegiatan",
     "imageUrl": "https://images.unsplash.com/photo-1584448141569-69f342da535c?q=80&w=2070&auto=format&fit=crop",
     "linkUrl": "https://forms.google.com/example"
+  },
+  {
+    "id": "4af38445-866f-4196-8eed-ca3e4e450c2d",
+    "title": "123",
+    "date": "2222-02-22",
+    "time": "22:22",
+    "location": "qweqwe",
+    "description": "",
+    "category": "Lainnya",
+    "imageUrl": "",
+    "linkUrl": ""
   }
 ]
