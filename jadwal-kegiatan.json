@@ -1,12 +1,14 @@
 [
   {
     "id": "db3e95d1-9f7b-45a9-823f-f174d1105a19",
-    "title": "Testing kegiatan",
+    "title": "Testing kegiatan 1",
     "date": "2026-01-12",
     "time": "08:00",
     "location": "test tempat",
     "description": "testing kegiatan",
-    "category": "Kegiatan"
+    "category": "Kegiatan",
+    "imageUrl": "https://images.unsplash.com/photo-1767517734918-d0969751b6b6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "linkUrl": ""
   },
   {
     "id": "3ccf9630-ee58-492c-baed-7611222e24e4",
