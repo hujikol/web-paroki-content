@@ -3,5 +3,21 @@
   "date": "2026-01-20",
   "description": "description test",
   "id": "test-album",
-  "images": []
+  "images": [
+    {
+      "src": "/images/gallery/test-album/1768925624697-GerejaTambakrejo.jpg",
+      "width": 1562,
+      "height": 878
+    },
+    {
+      "src": "/images/gallery/test-album/1768925624767-LahanPembangunan.jpg",
+      "width": 1562,
+      "height": 1169
+    },
+    {
+      "src": "/images/gallery/test-album/1768925624768-TestHeroImage.jpg",
+      "width": 1302,
+      "height": 865
+    }
+  ]
 }
