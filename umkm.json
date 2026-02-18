@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "owner": "Jane Smith",
+    "owner": "-",
     "businessName": "Konveksi Berkah",
     "address": "Jogopaten, Pandowoharjo, Sleman",
     "phone": "0821-9876-5432",
@@ -28,54 +28,54 @@
   },
   {
     "id": "f070adbf-b5b8-4038-abf3-b0d2907f0336",
-    "owner": "Rita\n  Pujiningsih",
+    "owner": "Rita Pujiningsih",
     "businessName": "Warung Mbak Rita",
-    "address": "Dukuh RT. 04 RW. 21 Pandowoharjo,\n  Sleman,  Yogyakarta",
-    "phone": "0813 9205\n  0543, 0852 9311 7229",
+    "address": "Dukuh RT. 04 RW. 21 Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0813 9205 0543, 0852 9311 7229",
     "type": "Kuliner",
-    "description": "Menyediakan berbagai macam\n  sayur, lodeh,  oseng, sop, sayur\n  bening, nasi bubur beserta sayur dan lauk pauk yang bervariasi setiap\n  harinya. Buka dari pukul 05.30 dan biasanya pukul 07.00 sudah habis. Spesial\n  menu yang disediakan adalah pepes ikan nila, ikan gembung, ikan, ayam,\n  penyetan, soto, gado-gado dan nasi bakar. Warung Mbak Rita juga menerima\n  pesanan untuk nasi box, kenduri, \n  hantaran selamatan/syukuran dan acara lainnya."
+    "description": "Menyediakan berbagai macam sayur, lodeh, oseng, sop, sayur bening, nasi bubur beserta sayur dan lauk pauk yang bervariasi setiap harinya. Buka dari pukul 05.30 dan biasanya pukul 07.00 sudah habis. Spesial menu yang disediakan adalah pepes ikan nila, ikan gembung, ikan, ayam, penyetan, soto, gado-gado dan nasi bakar. Warung Mbak Rita juga menerima pesanan untuk nasi box, kenduri, hantaran selamatan/syukuran dan acara lainnya."
   },
   {
     "id": "7317016b-e823-43bc-b7c8-ae414f63c954",
-    "owner": "Pipin\n  Prana Sofia",
+    "owner": "Pipin Prana Sofia",
     "businessName": "-",
     "address": "Dukuh RT. 03 RW. 21 Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0878 3100\n  1466, 0821 3865 1051",
+    "phone": "0878 3100 1466, 0821 3865 1051",
     "type": "Kuliner",
-    "description": "Menerima pesanan roti untuk\n  hantaran, Lelayu dan roti loyang. Selain itu menerima pesanan snack untuk hajatan,\n  arisan, rapat dan lain-lain Setiap hari Minggu pukul 06.30 sampai selesai\n  misa menjual roti di belakang Gereja Mlati, sementara untuk roti tersedia\n  setiap hari."
+    "description": "Menerima pesanan roti untuk hantaran, Lelayu dan roti loyang. Selain itu menerima pesanan snack untuk hajatan, arisan, rapat dan lain-lain Setiap hari Minggu pukul 06.30 sampai selesai misa menjual roti di belakang Gereja Mlati, sementara untuk roti tersedia setiap hari."
   },
   {
     "id": "1eb155d4-6779-4260-88bb-9a861429722b",
-    "owner": "Yosepha\n  Susilowati",
+    "owner": "Yosepha Susilowati",
     "businessName": "Empek-empek “Mam Sushi”",
     "address": "Kayunan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0852 3811\n  0017",
+    "phone": "0852 3811 0017",
     "type": "Kuliner",
-    "description": "Menyediakan empek-empek, stik\n  keju, nasi kuning, nasi tumpeng, berbagai macam kue, snack dan masakan.\n  Menerima pesanan partai besar maupun kecil untuk oleh-oleh, arisan, acara\n  keluarga maupun resepsi."
+    "description": "Menyediakan empek-empek, stik keju, nasi kuning, nasi tumpeng, berbagai macam kue, snack dan masakan. Menerima pesanan partai besar maupun kecil untuk oleh-oleh, arisan, acara keluarga maupun resepsi."
   },
   {
     "id": "0e829eb6-27e8-4583-abb1-873e17112449",
-    "owner": "Elisabeth\n  Ponirah",
+    "owner": "Elisabeth Ponirah",
     "businessName": "“Bu Karjo Lotek”",
     "address": "Kayunan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Menyediakan lotek,\n  lauk pauk, dawet dll."
+    "description": "Menyediakan lotek, lauk pauk, dawet dll."
   },
   {
     "id": "9e7f3181-4edd-44dc-849c-f597648746d6",
-    "owner": "Laurentina\n  Yuliani Mudjijo",
-    "businessName": "Laurentina\n  Yuliani Mudjijo",
+    "owner": "Laurentina Yuliani Mudjijo",
+    "businessName": "Laurentina Yuliani Mudjijo",
     "address": "Wonosari, Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Menyediakan nasi kucing beserta\n  aneka lauknya, wedang jahe dan lain-lain."
+    "description": "Menyediakan nasi kucing beserta aneka lauknya, wedang jahe dan lain-lain."
   },
   {
     "id": "51c9c346-e0ad-44bf-b6c0-9d17b6ca69f2",
     "owner": "T. A. Haryo Seno",
     "businessName": "T. A. Haryo Seno",
-    "address": "Ngelo RT.\n  02 RW. 35 Pandowoharjo, Sleman",
+    "address": "Ngelo RT. 02 RW. 35 Pandowoharjo, Sleman",
     "phone": "-",
     "type": "Kuliner",
     "description": "Menyediakan nasi, gorengan khas angkringan"
@@ -84,145 +84,145 @@
     "id": "9635cec8-ac83-494f-84eb-7d6bfaf0ff36",
     "owner": "Narti",
     "businessName": "Narti",
-    "address": "Nyaen RT.\n  02 RW. 34 Pandowoharjo, Sleman",
-    "phone": "0815 4848\n  2632",
+    "address": "Nyaen RT. 02 RW. 34 Pandowoharjo, Sleman",
+    "phone": "0815 4848 2632",
     "type": "Lainnya",
     "description": "menjual gorengan, tempura dan sosis."
   },
   {
     "id": "c3e1345e-4bcf-4411-85ee-a101917ad3a1",
-    "owner": "Sri\n  Listyawati",
-    "businessName": "Sri\n  Listyawati",
+    "owner": "Sri Listyawati",
+    "businessName": "Sri Listyawati",
     "address": "Tlacap RT. 001 RW. 001 Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0852 2810\n  2064",
+    "phone": "0852 2810 2064",
     "type": "Kuliner",
-    "description": "Usaha yang sudah berdiri sejak\n  7 tahun yang lalu ini  menyediakan\n  bubur, nasi, sayur, lauk pauk dan jajan pasar. Buka setiap hari dari pukul\n  07.00 - 10.00. Selain itu juga menerima pesanan."
+    "description": "Usaha yang sudah berdiri sejak 7 tahun yang lalu ini menyediakan bubur, nasi, sayur, lauk pauk dan jajan pasar. Buka setiap hari dari pukul 07.00 - 10.00. Selain itu juga menerima pesanan."
   },
   {
     "id": "94f58436-ab11-4f31-9821-4962c70e92c5",
-    "owner": "List\n  & Evy",
-    "businessName": "List\n  & Evy",
+    "owner": "List & Evy",
+    "businessName": "List & Evy",
     "address": "Jetisdonolayan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0815 4288\n  3556, 0878 3873 0441 (HP/WA)",
+    "phone": "0815 4288 3556, 0878 3873 0441 (HP/WA)",
     "type": "Kuliner",
-    "description": "a. Menerima pesanan\n  catering keluarga dan kantoran untuk wilayah Yogyakarta.\n\nb. Menu berubah setiap\n  hari dan dapat berubah sesuai permintaan costumer untuk memenuhi selera dan\n  kejenuhan karyawan-karyawati perusahaan.\n\nc. Melayani nasi box,\n  snack box, kenduri, hantaran, aneka tumpeng dan paket prasmanan.\n\nd. Menu gubuk (siomay,\n  es dawet, bakso, nasi liwet, dll) Siap antar"
+    "description": "a. Menerima pesanan catering keluarga dan kantoran untuk wilayah Yogyakarta.. Menu berubah setiap hari dan dapat berubah sesuai permintaan costumer untuk memenuhi selera dan kejenuhan karyawan-karyawati perusahaan.\n\nc. Melayani nasi box, snack box, kenduri, hantaran, aneka tumpeng dan paket prasmanan.\n\nd. Menu gubuk (siomay, es dawet, bakso, nasi liwet, dll) Siap antar"
   },
   {
     "id": "e1fa4dea-e919-4422-9f33-767a8587057f",
     "owner": "Utari",
     "businessName": "Utari",
     "address": "Jetisdonolayan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0821 3365\n  1464",
+    "phone": "0821 3365 1464",
     "type": "Kuliner",
-    "description": "Menerima pesanan partai besar\n  maupun kecil serta menyediakan snack box dan nasi box serta prasmanan segala\n  acara. Siap antar pesanan sampai tujuan."
+    "description": "Menerima pesanan partai besar maupun kecil serta menyediakan snack box dan nasi box serta prasmanan segala acara. Siap antar pesanan sampai tujuan."
   },
   {
     "id": "16c59e61-2dc4-4fb1-ba20-c2186c4f102a",
-    "owner": "M.M\n  Kadarwati",
-    "businessName": "M.M\n  Kadarwati",
+    "owner": "M.M Kadarwati",
+    "businessName": "M.M Kadarwati",
     "address": "Wonosari, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 2538\n  7184",
+    "phone": "0813 2538 7184",
     "type": "Pertanian",
-    "description": "Memproduksi kerupuk lempeng\n  beras. Menerima pesanan partai besar/kecil."
+    "description": "Memproduksi kerupuk lempeng beras. Menerima pesanan partai besar/kecil."
   },
   {
     "id": "04ab1dda-f1e5-4e2e-8046-42227c6b8a63",
     "owner": "Veronika Twi Isti Wahyuari",
     "businessName": "Veronika Twi Isti Wahyuari",
-    "address": "Tambakrejo RT. 03  RW. 11\n  Sariharjo, Ngaglik, Sleman Yogyakarta",
+    "address": "Tambakrejo RT. 03 RW. 11 Sariharjo, Ngaglik, Sleman Yogyakarta",
     "phone": "085727237303",
     "type": "Kuliner",
-    "description": "Melayani pesanan\n  roti, cookies dan snack."
+    "description": "Melayani pesanan roti, cookies dan snack."
   },
   {
     "id": "47cb466c-7b54-4bc6-91b9-1919a65a2086",
-    "owner": "Bu\n  Nargiyati",
-    "businessName": "Bu\n  Nargiyati",
-    "address": "Tambakrejo\n  RT. 01 RW. 11 Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0852 2830\n  8616",
+    "owner": "Bu Nargiyati",
+    "businessName": "Bu Nargiyati",
+    "address": "Tambakrejo RT. 01 RW. 11 Sariharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0852 2830 8616",
     "type": "Kuliner",
-    "description": "Memproduksi dan\n  menerima pesanan aneka   peyek."
+    "description": "Memproduksi dan menerima pesanan aneka peyek."
   },
   {
     "id": "53943b38-3b30-4f68-a6bf-1bead476689b",
-    "owner": "Titi\n  Indriana",
-    "businessName": "Titi\n  Indriana",
-    "address": "Bakalan,\n  Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0812 1665\n  3472",
+    "owner": "Titi Indriana",
+    "businessName": "Titi Indriana",
+    "address": "Bakalan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0812 1665 3472",
     "type": "Kuliner",
-    "description": "Menerima pesanan\n  partai besar maupun kecil   kue basah dan kue kering"
+    "description": "Menerima pesanan partai besar maupun kecil kue basah dan kue kering"
   },
   {
     "id": "0277f142-f7b5-4571-9a44-dfdb83b73274",
     "owner": "Ika",
     "businessName": "Ika",
-    "address": "Banteran,\n  Donoharjo, Ngaglik, Sleman,  Yogyakarta",
-    "phone": "0878 3849\n  3981",
+    "address": "Banteran, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0878 3849 3981",
     "type": "Kuliner",
-    "description": "Menerima pesanan\n  berbagai macam kue dan  snack."
+    "description": "Menerima pesanan berbagai macam kue dan snack."
   },
   {
     "id": "2c7219e5-e01c-43da-a91b-550b9b765dd4",
     "owner": "Pardiyono",
     "businessName": "Pardiyono",
-    "address": "(Jl. Griya Taman Asri) Karanglo, Donoharjo, Ngaglik, Sleman,\n  Yogyakarta",
-    "phone": "0857 2827\n  7692",
+    "address": "(Jl. Griya Taman Asri) Karanglo, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0857 2827 7692",
     "type": "Kuliner",
-    "description": "Menyediakan\n  rica-rica dan tongseng RW serta menerima pesanan partai esar/kecil."
+    "description": "Menyediakan rica-rica dan tongseng RW serta menerima pesanan partai esar/kecil."
   },
   {
     "id": "4f822c34-a337-4898-b7ba-4500f15adbe7",
-    "owner": "F.X.\n  Sunardi",
-    "businessName": "F.X.\n  Sunardi",
+    "owner": "F.X. Sunardi",
+    "businessName": "F.X. Sunardi",
     "address": "(Jl. Griya Taman Asri) Karanglo, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "081 746\n  1869",
+    "phone": "081 746 1869",
     "type": "Kuliner",
-    "description": "Menyediakan sate,\n  tongseng, nasi goreng B1  dan B2, serta menerima pesanan partai  besar/kecil."
+    "description": "Menyediakan sate, tongseng, nasi goreng B1 dan B2, serta menerima pesanan partai besar/kecil."
   },
   {
     "id": "4149045a-151e-4d30-af0d-75de0c41e66b",
     "owner": "Partinah",
     "businessName": "Partinah",
-    "address": "Karanglo,\n  Donoharjo, Ngaglik , Sleman, Yogyakarta",
+    "address": "Karanglo, Donoharjo, Ngaglik , Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Menyediakan sayur\n  dan makanan tradisional  bertempat di Pasar Denggung"
+    "description": "Menyediakan sayur dan makanan tradisional bertempat di Pasar Denggung"
   },
   {
     "id": "30e3bd28-0435-4224-ad0a-7bdfcf2899b5",
     "owner": "Rina",
     "businessName": "Rina",
-    "address": "Karanglo,\n  Donoharjo, Ngaglik , Sleman, Yogyakarta",
-    "phone": "0818 0402\n  9504",
+    "address": "Karanglo, Donoharjo, Ngaglik , Sleman, Yogyakarta",
+    "phone": "0818 0402 9504",
     "type": "Kuliner",
-    "description": "Menerima pesanan\n  kue, jajanan pasar dan rempeyek kacang maupun teri. Selain itu juga menerima\n  pesanan kerajinan tangan"
+    "description": "Menerima pesanan kue, jajanan pasar dan rempeyek kacang maupun teri. Selain itu juga menerima pesanan kerajinan tangan"
   },
   {
     "id": "9e1bd7a6-f8bf-4267-a7bf-dcc6ee5330c8",
     "owner": "Utarni",
     "businessName": "Utarni",
-    "address": "Karanglo,\n  Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 9158\n  0277",
+    "address": "Karanglo, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0813 9158 0277",
     "type": "Kuliner",
-    "description": "Membuka usaha toko\n  kelontong dan sembako.  Menerima pesanan kue dan kerajinan tangan"
+    "description": "Membuka usaha toko kelontong dan sembako. Menerima pesanan kue dan kerajinan tangan"
   },
   {
     "id": "3dab51b3-9796-493f-a846-5ef82a52fb08",
-    "owner": "Theresia\n  Larni Kadarwati",
-    "businessName": "Theresia\n  Larni Kadarwati",
-    "address": "Gondanglegi\n  RT. 01 RW. 13 , Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0852 2862\n  9880",
+    "owner": "Theresia Larni Kadarwati",
+    "businessName": "Theresia Larni Kadarwati",
+    "address": "Gondanglegi RT. 01 RW. 13 , Sariharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0852 2862 9880",
     "type": "Kuliner",
-    "description": "Usaha yang sudah berlangsung sekitar 7 tahun,\n  menyediakan dan menerima pesanan sari \n  kedelai untuk berbagai macam kegiatan, seperti  Posyandu, gizi di TK dan pendamping snack.\n  Sari  kedelai juga dipasarkan di\n  warung- warung, sekolah dan pasar-pasar."
+    "description": "Usaha yang sudah berlangsung sekitar 7 tahun, menyediakan dan menerima pesanan sari kedelai untuk berbagai macam kegiatan, seperti Posyandu, gizi di TK dan pendamping snack. Sari kedelai juga dipasarkan di warung- warung, sekolah dan pasar-pasar."
   },
   {
     "id": "a2369c24-6ea1-442f-88f3-17a9b2772dcc",
-    "owner": "Lousiana\n  Rubilah",
-    "businessName": "Lousiana\n  Rubilah",
+    "owner": "Lousiana Rubilah",
+    "businessName": "Lousiana Rubilah",
     "address": "Gondanglegi RT. 02 RW. 13, Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0857 2609\n  2644",
+    "phone": "0857 2609 2644",
     "type": "Kuliner",
-    "description": "Usaha yang telah berlangsung\n  kurang lebih selama 5 tahun ini menerima pesanan tumpeng nasi kuning dan\n  donat untuk acara ulang tahun dan lain-lain. Menerima pesanan partai\n  besar/kecil."
+    "description": "Usaha yang telah berlangsung kurang lebih selama 5 tahun ini menerima pesanan tumpeng nasi kuning dan donat untuk acara ulang tahun dan lain-lain. Menerima pesanan partai besar/kecil."
   },
   {
     "id": "b32db5c7-6e0d-4d06-a34e-57e920dc8cdd",
@@ -231,77 +231,77 @@
     "address": "Bantarjo, Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Warung makan ini buka mulai\n  pukul 09.00 – 22.00. Menerima pesanan partai besar/kecil"
+    "description": "Warung makan ini buka mulai pukul 09.00 - 22.00. Menerima pesanan partai besar/kecil"
   },
   {
     "id": "809a7c9d-37da-424a-9f5f-7fa5189af310",
-    "owner": "Anastasia\n  Sri Astuti Indriyani",
-    "businessName": "Anastasia\n  Sri Astuti Indriyani",
-    "address": "Tambakrejo RT. 04  RW. 12,\n  Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0852 1540\n  1861",
+    "owner": "Anastasia Sri Astuti Indriyani",
+    "businessName": "Anastasia Sri Astuti Indriyani",
+    "address": "Tambakrejo RT. 04 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0852 1540 1861",
     "type": "Kuliner",
-    "description": "Usaha ini sudah berdiri sejak\n  lebih dari 3 tahun lalu dan telah mendapat pelanggan setiap hari."
+    "description": "Usaha ini sudah berdiri sejak lebih dari 3 tahun lalu dan telah mendapat pelanggan setiap hari."
   },
   {
     "id": "1d4ec63c-4d61-47e1-9da1-2fd7ac658541",
-    "owner": "Stefanus\n  Marsono",
-    "businessName": "Stefanus\n  Marsono",
-    "address": "Tambakrejo RT. 06  RW. 12,\n  Sariharjo, Sleman, Yogyakarta",
-    "phone": "0878 3825\n  6997",
+    "owner": "Stefanus Marsono",
+    "businessName": "Stefanus Marsono",
+    "address": "Tambakrejo RT. 06 RW. 12, Sariharjo, Sleman, Yogyakarta",
+    "phone": "0878 3825 6997",
     "type": "Kuliner",
-    "description": "Warung buka sejak 5 tahun, buka\n  mulai pukul 07.00 – 20.00. Menerima pesanan untuk acara-acara keluarga."
+    "description": "Warung buka sejak 5 tahun, buka mulai pukul 07.00 - 20.00. Menerima pesanan untuk acara-acara keluarga."
   },
   {
     "id": "cab538d4-0434-4962-a27b-3f3a36318a92",
-    "owner": "A.\n  Sanyoto",
-    "businessName": "A.\n  Sanyoto",
+    "owner": "A. Sanyoto",
+    "businessName": "A. Sanyoto",
     "address": "Gondanglutung RT. 02 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0812 2665\n  1930",
+    "phone": "0812 2665 1930",
     "type": "Kuliner",
-    "description": "Menyediakan nasi putih dan\n  merah, ubi ungu, aneka sayur lodeh, oseng kerang lombok ijo, oseng tempe,\n  oseng daun kates, tongseng jamur, sayur lodeh, dan lain-lain"
+    "description": "Menyediakan nasi putih dan merah, ubi ungu, aneka sayur lodeh, oseng kerang lombok ijo, oseng tempe, oseng daun kates, tongseng jamur, sayur lodeh, dan lain-lain"
   },
   {
     "id": "d75e9598-46ba-4fa3-b4af-de6e30b32623",
-    "owner": "Y.\n  Kartika",
-    "businessName": "Y.\n  Kartika",
-    "address": "Jl. Palagan Tentara Pelajar KM 11,5, Gondanglutung RT\n  02 RW 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0819 0418\n  6470",
+    "owner": "Y. Kartika",
+    "businessName": "Y. Kartika",
+    "address": "Jl. Palagan Tentara Pelajar KM 11,5, Gondanglutung RT 02 RW 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0819 0418 6470",
     "type": "Kuliner",
-    "description": "Warung makan menyediakan sego\n  ireng (kaya akan anti oksidan dan serat serta mineral), sayur lombok ijo,\n  oseng godong kates, dll"
+    "description": "Warung makan menyediakan sego ireng (kaya akan anti oksidan dan serat serta mineral), sayur lombok ijo, oseng godong kates, dll"
   },
   {
     "id": "fe1e0c29-0be6-416b-a013-1c1bee71e465",
-    "owner": "G.\n  Sapto Hadi",
-    "businessName": "G.\n  Sapto Hadi",
+    "owner": "G. Sapto Hadi",
+    "businessName": "G. Sapto Hadi",
     "address": "Gondanglutung RT. 03 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0857 2900\n  5558",
+    "phone": "0857 2900 5558",
     "type": "Kuliner",
-    "description": "Warung makan ini buka setiap\n  hari Selasa – Minggu,  jam 18.00 sampai\n  habis."
+    "description": "Warung makan ini buka setiap hari Selasa - Minggu, jam 18.00 sampai habis."
   },
   {
     "id": "a402ca33-9e65-4abb-8092-8359a7d1a7d6",
-    "owner": "Alfonso\n  Heru Budi Santosa",
-    "businessName": "Alfonso\n  Heru Budi Santosa",
+    "owner": "Alfonso Heru Budi Santosa",
+    "businessName": "Alfonso Heru Budi Santosa",
     "address": "Balong , Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0857 2732\n  5030",
+    "phone": "0857 2732 5030",
     "type": "Kuliner",
-    "description": "Warung makan buka setiap hari\n  mulai pukul 17.00 – habis serta menerima pesanan"
+    "description": "Warung makan buka setiap hari mulai pukul 17.00 - habis serta menerima pesanan"
   },
   {
     "id": "570953a7-742c-4a24-bcea-7e289fe0e392",
-    "owner": "Tri\n  Ardayanta",
-    "businessName": "Tri\n  Ardayanta",
+    "owner": "Tri Ardayanta",
+    "businessName": "Tri Ardayanta",
     "address": "Balong, Donoharjo,Ngaglik, Sleman, Yogyakarta",
-    "phone": "0858 7895\n  5158",
+    "phone": "0858 7895 5158",
     "type": "Kuliner",
-    "description": "Warung makan buka setiap hari mulai\n  pukul 19.00 – habis serta menerima pesanan"
+    "description": "Warung makan buka setiap hari mulai pukul 19.00 - habis serta menerima pesanan"
   },
   {
     "id": "21c98646-aa29-4910-b334-bc67cabaf7d4",
     "owner": "Rini Handayani",
     "businessName": "Rini Handayani",
-    "address": "Nyaen RT.\n  01 RW. 34 Pandowoharjo, Sleman",
-    "phone": "0274 –\n  869 934",
+    "address": "Nyaen RT. 01 RW. 34 Pandowoharjo, Sleman",
+    "phone": "0274 - 869 934",
     "type": "Kuliner",
     "description": "Menerima pesanan snack dan nasi kotak"
   },
@@ -309,17 +309,17 @@
     "id": "6ee7e4cf-87b7-4267-8d77-d3129a21e66e",
     "owner": "Drg. Sukma Paramastri",
     "businessName": "Drg. Sukma Paramastri",
-    "address": "Jl. Griya Taman Asri (Depan GapuraTlacap ), Tlacap,\n  Pandowoharjo,  Sleman, Yogyakarta",
-    "phone": "082 2621\n  6384",
+    "address": "Jl. Griya Taman Asri (Depan GapuraTlacap ), Tlacap, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "082 2621 6384",
     "type": "Jasa",
-    "description": "Melayani segala jenis\n  pemeriksaan gigi anak maupun dewasa (scalling, tambal gigi, gigi tiruan,\n  cabut gigi, konsultasi gigi, dll). Jam Praktek : Senin - Sabtu pukul 16.30 –\n  20.00. Untuk pelayanan hari Senin dan Selasa dilayani oleh 2 (dua) orang\n  Dokter gigi"
+    "description": "Melayani segala jenis pemeriksaan gigi anak maupun dewasa (scalling, tambal gigi, gigi tiruan, cabut gigi, konsultasi gigi, dll). Jam Praktek : Senin - Sabtu pukul 16.30 - 20.00. Untuk pelayanan hari Senin dan Selasa dilayani oleh 2 (dua) orang Dokter gigi"
   },
   {
     "id": "48cad4c3-6d97-4b9d-8777-a5a3af830d0a",
     "owner": "Antonius Suprijatman, SH., MH",
     "businessName": "Antonius Suprijatman, SH., MH",
-    "address": "Jl. Palagan Tentara Pelajar Km. 11,5 Bantarjo, Donoharjo,\n  Ngaglik,  Sleman, Yogyakarta.",
-    "phone": "0858 7661\n  8668",
+    "address": "Jl. Palagan Tentara Pelajar Km. 11,5 Bantarjo, Donoharjo, Ngaglik, Sleman, Yogyakarta.",
+    "phone": "0858 7661 8668",
     "type": "Lainnya",
     "description": "Siap membantu klien yang memerlukan"
   },
@@ -328,36 +328,36 @@
     "owner": "Chitra Zelvyani",
     "businessName": "Chitra Zelvyani",
     "address": "Brayut Rt.01/28, Pandowoharjo, Sleman, Yogyakarta.",
-    "phone": "0878 7122\n  2126",
+    "phone": "0878 7122 2126",
     "type": "Jasa",
-    "description": "Melayani jasa make up\n  panggilan, antara lain make up pre wedding, make up wisuda, make up pesta,\n  semir rambut dan keriting rambut"
+    "description": "Melayani jasa make up panggilan, antara lain make up pre wedding, make up wisuda, make up pesta, semir rambut dan keriting rambut"
   },
   {
     "id": "6a41e0f0-93c9-470f-9b57-db71863d925c",
     "owner": "Yustina Sulistyawati, S.Pd.UD",
     "businessName": "Yustina Sulistyawati, S.Pd.UD",
     "address": "Tambakrejo RT. 05 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta.",
-    "phone": "0813 2848\n  9595",
+    "phone": "0813 2848 9595",
     "type": "Kerajinan",
-    "description": "Jasa bimbel untuk anak PAUD,\n  dan Sekolah Dasar (kelas 1 dan kelas 2). Usaha Bimbel ini  dimulai pada Tanggal 2 Juli 2002. Pada\n  awalnya membantu siswa Paud yang sudah memasuki usia Sekolah Dasar tetapi\n  belum mampu untuk membaca, menulis dan berhitung. Saya berkeliling dari rumah\n  ke rumah, ternyata banyak anak-anak yang membutuhkan. Ketika saya diminta\n  membantu anak Orang Jerman dan Belgia saya hanya dapat membantu 2 (dua) anak,\n  pada hal beberapa anak butuh perhatian terutama untuk motorik halus.\n  Berdasarkan pengalaman tersebut, jika berkeliling hanya 1 (satu) atau 2 (dua)\n  orang terbantu, maka saya memutuskan membuka BIMBEL di rumah supaya bisa\n  banyak anak-anak yang terlayani."
+    "description": "Jasa bimbel untuk anak PAUD, dan Sekolah Dasar (kelas 1 dan kelas 2). Usaha Bimbel ini dimulai pada Tanggal 2 Juli 2002. Pada awalnya membantu siswa Paud yang sudah memasuki usia Sekolah Dasar tetapi belum mampu untuk membaca, menulis dan berhitung. Saya berkeliling dari rumah ke rumah, ternyata banyak anak-anak yang membutuhkan. Ketika saya diminta membantu anak Orang Jerman dan Belgia saya hanya dapat membantu 2 (dua) anak, pada hal beberapa anak butuh perhatian terutama untuk motorik halus. Berdasarkan pengalaman tersebut, jika berkeliling hanya 1 (satu) atau 2 (dua) orang terbantu, maka saya memutuskan membuka BIMBEL di rumah supaya bisa banyak anak-anak yang terlayani."
   },
   {
     "id": "8e7ca49f-42dc-4eda-b8bc-7e5f677d6ce3",
     "owner": "Tabitha Janti",
     "businessName": "Tabitha Janti",
     "address": "Perum GTA Blok B 703, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0858 7887\n  7001",
+    "phone": "0858 7887 7001",
     "type": "Kuliner",
-    "description": "Pengusaha ini sebagai Supplier\n  mainan anak (Repacking Toy Us) dan memproduksi Susu Kedelai SULETA (Susu\n  Kedelai Tabita). Susu Kedelai dikemas dengan beberapa jenis plastic, ukuran\n  besar, kecil & botol. Susu Kedelai dengan rasa Original, cocopandan,\n  durian dan coklat. Susu Kedelai, Sehat dan bergizi tanpa pemanis buatan."
+    "description": "Pengusaha ini sebagai Supplier mainan anak (Repacking Toy Us) dan memproduksi Susu Kedelai SULETA (Susu Kedelai Tabita). Susu Kedelai dikemas dengan beberapa jenis plastic, ukuran besar, kecil & botol. Susu Kedelai dengan rasa Original, cocopandan, durian dan coklat. Susu Kedelai, Sehat dan bergizi tanpa pemanis buatan."
   },
   {
     "id": "272aeeff-b714-4e2e-a262-ae17291e9988",
     "owner": "Y. Sukantoro",
     "businessName": "Y. Sukantoro",
-    "address": "Bakalan, Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
+    "address": "Bakalan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Pertanian",
-    "description": "Usaha ini menerima panggilan\n  untuk merontokkan padi atau jagung."
+    "description": "Usaha ini menerima panggilan untuk merontokkan padi atau jagung."
   },
   {
     "id": "f8dfcfcf-1812-43b1-9238-d9867c233733",
@@ -366,176 +366,176 @@
     "address": "Karanglo, Donoharjo, Ngaglik , Sleman, Yogyakarta",
     "phone": "0813 9290 1327",
     "type": "Pertanian",
-    "description": "Usaha ini dirintis dengan ijin\n  membuka usaha Penggilingan Padi (Selepan). Namun dengan perkembangan waktu,\n  usaha ini ditingkatkan dengan usaha jual beli gabah dan menjual beras.\n  Disamping itu juga dijual hasil samping dari penggilingan padi yaitu dedak\n  (bekatul) dan kulit padi (sekam). Pengusaha menerima  pesanan dalam partai besar maupun kecil dan\n  siap antar"
+    "description": "Usaha ini dirintis dengan ijin membuka usaha Penggilingan Padi (Selepan). Namun dengan perkembangan waktu, usaha ini ditingkatkan dengan usaha jual beli gabah dan menjual beras. Disamping itu juga dijual hasil samping dari penggilingan padi yaitu dedak (bekatul) dan kulit padi (sekam). Pengusaha menerima pesanan dalam partai besar maupun kecil dan siap antar"
   },
   {
     "id": "e444dbb5-3918-4805-a1e3-bc795904895a",
     "owner": "RB. Sukardi",
     "businessName": "RB. Sukardi",
     "address": "Pajangan , Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0852 8018\n  0433",
+    "phone": "0852 8018 0433",
     "type": "Kuliner",
-    "description": "Penggilingan padi ini dimulai\n  sejak tahun 2003, setelah Bapak Sukardi pensiun dari PNS.   Sebenarnya usaha ini sudah dimulai sejak\n  masih aktif bekerja sebagai PNS, sebagai usaha sampingan.  Namun baru ditekui setelah pensiun.\n  Konsumennya penduduk sekitar dusun Pajangan. Bapak Sukardi menggunakan sistem\n  jemput bola (pelanggan bisa menelpon dulu)."
+    "description": "Penggilingan padi ini dimulai sejak tahun 2003, setelah Bapak Sukardi pensiun dari PNS. Sebenarnya usaha ini sudah dimulai sejak masih aktif bekerja sebagai PNS, sebagai usaha sampingan. Namun baru ditekui setelah pensiun. Konsumennya penduduk sekitar dusun Pajangan. Bapak Sukardi menggunakan sistem jemput bola (pelanggan bisa menelpon dulu)."
   },
   {
     "id": "c0093813-b437-4804-8cda-5c17b52a4f73",
     "owner": "Budi Setiawan",
     "businessName": "Budi Setiawan",
     "address": "Donolayan, Donoharjo, Ngaglik, Sleman DIY",
-    "phone": "0852 2886\n  0499 / 0878 3249 6416",
+    "phone": "0852 2886 0499 / 0878 3249 6416",
     "type": "Pertanian",
-    "description": "a. Menyediakan bibit Ikan, cacing sutera, koi, nila, lele, telur\n  gurameh,   dan lain-lain\n\nb. Melayani seluruh Indonesia dan bisa datang langsung ke lokasi\n  budidaya\n\nc. Siap diantar sampai tujuan"
+    "description": "a. Menyediakan bibit Ikan, cacing sutera, koi, nila, lele, telur gurameh, dan lain-lain. Melayani seluruh Indonesia dan bisa datang langsung ke lokasi budidaya\n\nc. Siap diantar sampai tujuan"
   },
   {
     "id": "c76bb0bf-a1a9-4f60-bf71-e6987ff3deeb",
     "owner": "Petrus Sampara",
     "businessName": "Petrus Sampara",
-    "address": "Jl. Gito-Gati No.95 Gondang Legi, Sariharjo, Ngaglik, Sleman\n  Yogyakarta",
+    "address": "Jl. Gito-Gati No.95 Gondang Legi, Sariharjo, Ngaglik, Sleman Yogyakarta",
     "phone": "0813 9221 2121, 0878 3889 0555",
     "type": "Jasa",
-    "description": "Menyediakan sparepart, oli, dan\n  servis segala  macam merk sepeda motor"
+    "description": "Menyediakan sparepart, oli, dan servis segala macam merk sepeda motor"
   },
   {
     "id": "733a98e0-2ff7-4fee-b2e1-cdf478506d98",
     "owner": "Antonius Dedy Setiawan",
     "businessName": "Antonius Dedy Setiawan",
-    "address": "Kleben,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0815 7847\n  3911",
+    "address": "Kleben, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0815 7847 3911",
     "type": "Lainnya",
-    "description": "Melayani konsumen untuk service\n  ringan maupun turun mesin, ganti oli dan ban. Juga melakukan penjualan spare\n  part, dll"
+    "description": "Melayani konsumen untuk service ringan maupun turun mesin, ganti oli dan ban. Juga melakukan penjualan spare part, dll"
   },
   {
     "id": "23e0871d-cf40-4946-bc32-353898c5a2e8",
     "owner": "A.V. Iwan Fajariyanto",
     "businessName": "A.V. Iwan Fajariyanto",
     "address": "Karangasem, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0852 2548\n  8496",
+    "phone": "0852 2548 8496",
     "type": "Lainnya",
-    "description": "Melayani konsumen untuk service\n  ringan  maupun turun mesin, ganti oli\n  dan ban. Juga melakukan penjualan spare part, dll"
+    "description": "Melayani konsumen untuk service ringan maupun turun mesin, ganti oli dan ban. Juga melakukan penjualan spare part, dll"
   },
   {
     "id": "c8463638-f77d-4a12-8377-3b831b521f48",
     "owner": "Berbardus Wahyu Ardi P",
     "businessName": "Berbardus Wahyu Ardi P",
-    "address": "Berkisan,\n  Pandowoharjo, Sleman Yogyakarta",
-    "phone": "0856 4330\n  5854",
+    "address": "Berkisan, Pandowoharjo, Sleman Yogyakarta",
+    "phone": "0856 4330 5854",
     "type": "Jasa",
-    "description": "Melayani servis sepeda motor\n  dengan sistem antar jemput"
+    "description": "Melayani servis sepeda motor dengan sistem antar jemput"
   },
   {
     "id": "99b121e6-b9c7-476c-a6b8-110ef6e0e42b",
     "owner": "B. Triyono",
     "businessName": "B. Triyono",
-    "address": "Jlamprang  RT. 02  RW. 10, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0856 4751\n  3771",
+    "address": "Jlamprang RT. 02 RW. 10, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0856 4751 3771",
     "type": "Kuliner",
-    "description": "Bengkel ini berdiri sejak tahun\n  1992. Pelanggan bengkel ini bukan hanya \n  dari   sekitar lokasi, tetapi\n  banyak yang dari luar daerah. Beberapa diantaranya adalah dari Karanganyar,\n  Kudus, Madiun dan Jakarta."
+    "description": "Bengkel ini berdiri sejak tahun 1992. Pelanggan bengkel ini bukan hanya dari sekitar lokasi, tetapi banyak yang dari luar daerah. Beberapa diantaranya adalah dari Karanganyar, Kudus, Madiun dan Jakarta."
   },
   {
     "id": "4b44b119-9a18-40d8-a87f-69d0b7ba2fbf",
     "owner": "C. Suyanto",
     "businessName": "C. Suyanto",
     "address": "Jl. Gito Gati 61, Grojogan, Pandowoharjo, Sleman Yogyakarta",
-    "phone": "0877 3911\n  6671 / 0274- 4360 669",
+    "phone": "0877 3911 6671 / 0274- 4360 669",
     "type": "Kuliner",
-    "description": "Usaha ini adalah usaha yang\n  dikelola oleh keluarga, yang selain melayani jasa untuk cuci  mobil. Selain itu usaha keluarga kami juga\n  melayani jasa salon mobil, cuci karpet, cuci motor, ganti oli dan menyediakan\n  aksesori. Kami juga mempunyai warung kelontong yang bersebelahan dengan\n  tempat cuci mobil."
+    "description": "Usaha ini adalah usaha yang dikelola oleh keluarga, yang selain melayani jasa untuk cuci mobil. Selain itu usaha keluarga kami juga melayani jasa salon mobil, cuci karpet, cuci motor, ganti oli dan menyediakan aksesori. Kami juga mempunyai warung kelontong yang bersebelahan dengan tempat cuci mobil."
   },
   {
     "id": "0de94654-c12d-42c8-8198-d21b03365495",
     "owner": "V. Indra Erwida Surya",
     "businessName": "V. Indra Erwida Surya",
     "address": "Pajangan RT. 03 RW. 09, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0822 2582\n  5573",
+    "phone": "0822 2582 5573",
     "type": "Kuliner",
-    "description": "Berawal dari hobi menggambar,\n  sejak tahun 2011 Indra lebih serius menjadikan seni tattoo sebagai mata\n  pencaharian. Pelanggan yang menggunakan jasa tatoo ini bisa melihat\n  contoh-contoh gambar tatoo yang pernah dikerjakan sendiri di bengkel kerjanya\n  atau konsumen mempunyai gambar sendiri sesuai yang diinginkan, bisa\n  dikerjakan. Pelanggan datang dari daerah Magelang, Bantul dan yang terbanyak\n  dari Sleman."
+    "description": "Berawal dari hobi menggambar, sejak tahun 2011 Indra lebih serius menjadikan seni tattoo sebagai mata pencaharian. Pelanggan yang menggunakan jasa tatoo ini bisa melihat contoh-contoh gambar tatoo yang pernah dikerjakan sendiri di bengkel kerjanya atau konsumen mempunyai gambar sendiri sesuai yang diinginkan, bisa dikerjakan. Pelanggan datang dari daerah Magelang, Bantul dan yang terbanyak dari Sleman."
   },
   {
     "id": "83191974-0fe5-452f-92e8-f7e20125432d",
     "owner": "Partini",
     "businessName": "Partini",
-    "address": "Tambakrejo  RT. 06  RW. 12, Sariharjo, Ngaglik, Sleman,\n  Yogyakarta",
+    "address": "Tambakrejo RT. 06 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Usaha ini sudah berlangsung\n  lebih dari 15 tahun. Merupakan usaha keluarga, menerima pesanan jahitan untuk\n  seragam sekolah, baju wanita dan pria serta menerima permak baju"
+    "description": "Usaha ini sudah berlangsung lebih dari 15 tahun. Merupakan usaha keluarga, menerima pesanan jahitan untuk seragam sekolah, baju wanita dan pria serta menerima permak baju"
   },
   {
     "id": "69fd281c-e51b-416e-a65e-0af73e091f79",
     "owner": "Winarti",
     "businessName": "Winarti",
     "address": "Pajangan RT 04 RW 09, Pandowoharjo, Sleman, 55512 Yogyakarta",
-    "phone": "0852 2811\n  7788",
+    "phone": "0852 2811 7788",
     "type": "Kuliner",
-    "description": "Usaha ini dimulai  tahun 2013. Awal usaha ini hanya menjual\n  pulsa HP. Namun  modal dapat ditambah\n  sehingga usaha dikembangkan dengan menjual pulsa listrik. Walaupun\n  pelanggannya hanya penduduk di sekitar Pajangan, tetapi usaha ini berjalan\n  lancar."
+    "description": "Usaha ini dimulai tahun 2013. Awal usaha ini hanya menjual pulsa HP. Namun modal dapat ditambah sehingga usaha dikembangkan dengan menjual pulsa listrik. Walaupun pelanggannya hanya penduduk di sekitar Pajangan, tetapi usaha ini berjalan lancar."
   },
   {
     "id": "e582014b-2fad-4cf0-b7da-e5fe2cb639a8",
     "owner": "FX. Harsono",
     "businessName": "FX. Harsono",
-    "address": "Mlaten,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0818 0262\n  6458",
+    "address": "Mlaten, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0818 0262 6458",
     "type": "Lainnya",
-    "description": "Siap melayani pesanan segala\n  jenis bentuk/model baik pria maupun wanita"
+    "description": "Siap melayani pesanan segala jenis bentuk/model baik pria maupun wanita"
   },
   {
     "id": "58c1db2b-8623-41a5-98a5-fa376f2615d6",
     "owner": "Christina Surtini",
     "businessName": "Christina Surtini",
     "address": "Pajangan RT. 01 RW. 08, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0813 2804\n  7731",
+    "phone": "0813 2804 7731",
     "type": "Kuliner",
-    "description": "Ibu Christina memulai usahanya\n  sejak tahun 2005. Dengan usaha ini, ibu Christina bisa membantu dalam ekonomi\n  keluarga. Hasil jahitannya rapih, dan pelanggannya bukan dari lingkungan\n  sekitar saja, tetapi ada yang dari Jombor, Mlati, bahkan ada yang dari daerah\n  Pakem."
+    "description": "Ibu Christina memulai usahanya sejak tahun 2005. Dengan usaha ini, ibu Christina bisa membantu dalam ekonomi keluarga. Hasil jahitannya rapih, dan pelanggannya bukan dari lingkungan sekitar saja, tetapi ada yang dari Jombor, Mlati, bahkan ada yang dari daerah Pakem."
   },
   {
     "id": "dfb2198a-5e35-48b7-a6ac-d1fc4fce4634",
     "owner": "Anna",
     "businessName": "Anna",
-    "address": "Tambakrejo  RT. 04  RW. 12, Sariharjo, Ngaglik, Sleman,\n  Yogyakarta",
-    "phone": "0813 9218\n  6154",
+    "address": "Tambakrejo RT. 04 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0813 9218 6154",
     "type": "Kuliner",
-    "description": "Usaha ini sudah berlangsung\n  kurang lebih 8 tahun.  Merupakan usaha\n  keluarga. Menerima jahitan seragam sekolah, seragam kantor,  baju wanita dan pria dan Kebaya."
+    "description": "Usaha ini sudah berlangsung kurang lebih 8 tahun. Merupakan usaha keluarga. Menerima jahitan seragam sekolah, seragam kantor, baju wanita dan pria dan Kebaya."
   },
   {
     "id": "93aa94b1-f824-481f-83cd-5469143ce284",
     "owner": "Alberta Sulistyawati (Mbak Lis)",
     "businessName": "Alberta Sulistyawati (Mbak Lis)",
     "address": "Mancasan, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0831 5719\n  4989",
+    "phone": "0831 5719 4989",
     "type": "Fashion",
-    "description": "Melayani  dan menjahit berbagai macam baju, baik baju\n  laki-laki maupun wanita"
+    "description": "Melayani dan menjahit berbagai macam baju, baik baju laki-laki maupun wanita"
   },
   {
     "id": "c8526e8d-cb5c-4f91-b202-a92ad7975e89",
     "owner": "Genovera Dian Uning",
     "businessName": "Genovera Dian Uning",
-    "address": "Mlaten,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0838 2263\n  1948",
+    "address": "Mlaten, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0838 2263 1948",
     "type": "Lainnya",
-    "description": "Siap melayani pesanan segala\n  jenis bentuk/model baik pria maupun wanita"
+    "description": "Siap melayani pesanan segala jenis bentuk/model baik pria maupun wanita"
   },
   {
     "id": "6dd4356e-72a3-42ff-9afd-b165643928b0",
     "owner": "Untoro",
     "businessName": "Untoro",
     "address": "Gondanglutung RT. 04 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0812 2715\n  3749",
+    "phone": "0812 2715 3749",
     "type": "Jasa",
-    "description": "Usaha jasa transport (Gojek)\n  ini dilakukan pada malam hari, mulai jam 19.00 – 21.30. Siap antar jemput\n  palanggan. Sebagai usaha sampingan, di rumah membuat sepatu."
+    "description": "Usaha jasa transport (Gojek) ini dilakukan pada malam hari, mulai jam 19.00 - 21.30. Siap antar jemput palanggan. Sebagai usaha sampingan, di rumah membuat sepatu."
   },
   {
     "id": "39e823e5-6639-48aa-8696-b73309af959a",
     "owner": "Bernadus Dharma Setiadi Suyono (Mas Adi)",
     "businessName": "Bernadus Dharma Setiadi Suyono (Mas Adi)",
-    "address": "Toino,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0877 3406\n  0493 email : dsuyono6@gmail.com",
+    "address": "Toino, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0877 3406 0493 email : dsuyono6@gmail.com",
     "type": "Jasa",
-    "description": "Melayani cetak outdoor dan\n  indoor. Membuat stiker branding kendaraan, dan ruang usaha."
+    "description": "Melayani cetak outdoor dan indoor. Membuat stiker branding kendaraan, dan ruang usaha."
   },
   {
     "id": "94f0a0c5-1e92-4b03-bbec-0304a5b61316",
     "owner": "Linus Suwardi",
     "businessName": "Linus Suwardi",
-    "address": "Mlaten,\n  Pandowoharjo,  Sleman, Yogyakarta",
-    "phone": "0858 6411\n  875",
+    "address": "Mlaten, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0858 6411 875",
     "type": "Lainnya",
     "description": "Siap melayani pesanan segala jenis model"
   },
@@ -543,17 +543,17 @@
     "id": "41b05d0e-787b-4da2-bede-c84340a0d75c",
     "owner": "Cahyo Purnomo",
     "businessName": "Cahyo Purnomo",
-    "address": "Toino,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0813 9009\n  1186",
+    "address": "Toino, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0813 9009 1186",
     "type": "Jasa",
-    "description": "Melayani pembuatan canopy,\n  teralis, pagar halaman dan segala macam pekerjaan perbengkelan las"
+    "description": "Melayani pembuatan canopy, teralis, pagar halaman dan segala macam pekerjaan perbengkelan las"
   },
   {
     "id": "3c6288ff-22c4-4e6b-967e-82b0f3a7af97",
     "owner": "B. Helga Hermawan",
     "businessName": "B. Helga Hermawan",
-    "address": "Dukuh RT. 04 RW. 21, Pandowoharjo, \n  Sleman, Yogyakarta",
-    "phone": "0877 3966\n  1102",
+    "address": "Dukuh RT. 04 RW. 21, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0877 3966 1102",
     "type": "Lainnya",
     "description": "Melayani pembuatan canopy, tralis, pintu, dll."
   },
@@ -562,7 +562,7 @@
     "owner": "Luvi Anggar Kurniawan",
     "businessName": "Luvi Anggar Kurniawan",
     "address": "Karangasem, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0821 4106\n  0588",
+    "phone": "0821 4106 0588",
     "type": "Jasa",
     "description": "Selain usaha laundry juga menjual gas"
   },
@@ -570,17 +570,17 @@
     "id": "71410fc9-7782-48e8-bf33-cb7321cfab54",
     "owner": "Agnes Riswantini",
     "businessName": "Agnes Riswantini",
-    "address": "Berkisan,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0817 5466\n  705",
+    "address": "Berkisan, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0817 5466 705",
     "type": "Jasa",
-    "description": "Melayani laundry dengan layanan\n  antar jemput"
+    "description": "Melayani laundry dengan layanan antar jemput"
   },
   {
     "id": "9fb104e9-5388-4d1e-81e1-6aeff700050a",
     "owner": "Yohanes Suryono",
-    "businessName": "“AVV\n  LAUNDRY” (AMI)",
-    "address": "Jlamprang\n  ( Don Bosco )",
-    "phone": "0822 2034\n  4031",
+    "businessName": "“AVV LAUNDRY” (AMI)",
+    "address": "Jlamprang ( Don Bosco )",
+    "phone": "0822 2034 4031",
     "type": "Jasa",
     "description": "Melayani laundry, layanan antar-jemput"
   },
@@ -589,16 +589,16 @@
     "owner": "Paulus Daryono",
     "businessName": "Paulus Daryono",
     "address": "Tambakrejo RT. 03 RW. 11 Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 2877\n  7724",
+    "phone": "0813 2877 7724",
     "type": "Jasa",
-    "description": "Melayani persewaan tenda dan\n  kursi untuk berbagai macam acara"
+    "description": "Melayani persewaan tenda dan kursi untuk berbagai macam acara"
   },
   {
     "id": "b75b7ae7-7aae-45d3-8466-1d5c3575f905",
     "owner": "Yohanes Mujilin",
-    "businessName": "DMT\n  FUTSAL",
-    "address": "a. Brekisan, Pendowoharjo, Sleman, Yk\n\nb. Jl. Raya Kasongan, Bangunjiwo, Kasongan. Bantul",
-    "phone": "a. 0851 0627 3319 / 0857 8659 0911\n\nb. 0857 0239 7773",
+    "businessName": "DMT FUTSAL",
+    "address": "a. Brekisan, Pendowoharjo, Sleman, Yk. Jl. Raya Kasongan, Bangunjiwo, Kasongan. Bantul",
+    "phone": "a. 0851 0627 3319 / 0857 8659 0911. 0857 0239 7773",
     "type": "Jasa",
     "description": "-"
   },
@@ -606,44 +606,44 @@
     "id": "aea26806-c725-4a4b-89c1-987ad1566391",
     "owner": "Sukandar",
     "businessName": "Sukandar",
-    "address": "Nyaen RT.\n  02 RW. 34 Pandowoharjo, Sleman",
-    "phone": "0878 3445\n  9260",
+    "address": "Nyaen RT. 02 RW. 34 Pandowoharjo, Sleman",
+    "phone": "0878 3445 9260",
     "type": "Lainnya",
-    "description": "Melayani pemesanan dan service\n  kursi, kursi lipat, kursi risban, sofa, spring bed, jok mobil, ganti kain,\n  dll"
+    "description": "Melayani pemesanan dan service kursi, kursi lipat, kursi risban, sofa, spring bed, jok mobil, ganti kain, dll"
   },
   {
     "id": "1c606088-0379-4d87-86df-e4054a223892",
     "owner": "Budi Prasetya",
     "businessName": "Budi Prasetya",
-    "address": "Nyaen RT.\n  01 RW. 34 Pandowoharjo, Sleman",
-    "phone": "0812 1554\n  543",
+    "address": "Nyaen RT. 01 RW. 34 Pandowoharjo, Sleman",
+    "phone": "0812 1554 543",
     "type": "Lainnya",
-    "description": "Recruitmen dan pelatihan tenaga\n  perawat dan asisten perawat homecare"
+    "description": "Recruitmen dan pelatihan tenaga perawat dan asisten perawat homecare"
   },
   {
     "id": "3dd51fa8-12a3-46a4-a0d1-c429c288ecae",
-    "owner": "FB. Widodo\n  Margotomo",
-    "businessName": "CYATHEA Photography\n  & Design",
-    "address": "Tegalrejo,\n  Sariharjo, Ngaglik, Sleman",
-    "phone": "0813 9532\n  8933",
+    "owner": "FB. Widodo Margotomo",
+    "businessName": "CYATHEA Photography & Design",
+    "address": "Tegalrejo, Sariharjo, Ngaglik, Sleman",
+    "phone": "0813 9532 8933",
     "type": "Jasa",
-    "description": "Kami menggunakan bendera\n  CYATHEA, bergerak dalam bisnis fotografi, seperti Prewedding Outdoor, Family\n  Photo, Wisuda, Pemotretan Product, dll."
+    "description": "Kami menggunakan bendera CYATHEA, bergerak dalam bisnis fotografi, seperti Prewedding Outdoor, Family Photo, Wisuda, Pemotretan Product, dll."
   },
   {
     "id": "51b806a6-2e75-4ae6-b0d0-80c6a6a5ff9d",
     "owner": "Andreas Suhargono",
     "businessName": "Andreas Suhargono",
     "address": "Banteran RT. 02 RW. 25, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0812 1555\n  3127",
+    "phone": "0812 1555 3127",
     "type": "Pertanian",
-    "description": "Gelang Jinetri memancarkan\n  energy positif, sehingga berdampak membuat tubuh menjadi segar dan fit serta\n  mempunyai stamina yang baik. Komentar bagi yang sudah memakai : bisa  menyembuhkan Vertigo, menetralkan\n  kolesterol, asam urat, kadar gula dalam darah dan pegal-pegal di pinggang\n  sembuh. Kedasyatan efek Gelang Jinetri lebih dasyat dari yang kita duga.\n  Pakailah Gelang Jinetri setiap saat (saat mandi boleh dilepas, boleh\n  dipakai). Silahkan memakai Gelang Jinetri baru boleh berkomentar dasyatnya\n  seperti apa, dan saya berani berkata, bila Gelang Jinetri tidak berdampak\n  pada kesehatan Anda, Gelang Jinetri bisa dikembalikan dan uangnya bisa\n  diambil kembali. Saya berani berkata demikian karena saya sudah mencobanya,\n  dan betul-betul sudah terbukti mempunyai efek positif bagi kesehatan. Bagi\n  yang berminat dan percaya silahkan menghubungi nomor HP di atas, saya akan\n  datang dan mendemokan efek Gelang Jinetri dengan senang hati."
+    "description": "Gelang Jinetri memancarkan energy positif, sehingga berdampak membuat tubuh menjadi segar dan fit serta mempunyai stamina yang baik. Komentar bagi yang sudah memakai : bisa menyembuhkan Vertigo, menetralkan kolesterol, asam urat, kadar gula dalam darah dan pegal-pegal di pinggang sembuh. Kedasyatan efek Gelang Jinetri lebih dasyat dari yang kita duga. Pakailah Gelang Jinetri setiap saat (saat mandi boleh dilepas, boleh dipakai). Silahkan memakai Gelang Jinetri baru boleh berkomentar dasyatnya seperti apa, dan saya berani berkata, bila Gelang Jinetri tidak berdampak pada kesehatan Anda, Gelang Jinetri bisa dikembalikan dan uangnya bisa diambil kembali. Saya berani berkata demikian karena saya sudah mencobanya, dan betul-betul sudah terbukti mempunyai efek positif bagi kesehatan. Bagi yang berminat dan percaya silahkan menghubungi nomor HP di atas, saya akan datang dan mendemokan efek Gelang Jinetri dengan senang hati."
   },
   {
     "id": "c480222f-3be5-40a3-b802-3061f4106c72",
     "owner": "V. Sanjaya Nugroho",
     "businessName": "V. Sanjaya Nugroho",
-    "address": "Banteran , Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
-    "phone": "0822 2659\n  2727",
+    "address": "Banteran , Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0822 2659 2727",
     "type": "Lainnya",
     "description": "-"
   },
@@ -651,44 +651,44 @@
     "id": "c8951175-4c43-471b-a48e-7ff0b6b71867",
     "owner": "Ny. Wardoyo",
     "businessName": "Ny. Wardoyo",
-    "address": "Banteran , Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
+    "address": "Banteran , Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Pertanian",
-    "description": "Menjual buah-buahan, bawang\n  merah dan bawang putih"
+    "description": "Menjual buah-buahan, bawang merah dan bawang putih"
   },
   {
     "id": "25ca5404-6c47-48b5-a6da-d5d9aaec74ad",
     "owner": "Ny. M. Sarmi",
     "businessName": "Ny. M. Sarmi",
-    "address": "Banteran , Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
+    "address": "Banteran , Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Lainnya",
-    "description": "Menjual berbagai macam\n  kebutuhan sehari-hari. Lokasi berjualan di Pasar Denggung"
+    "description": "Menjual berbagai macam kebutuhan sehari-hari. Lokasi berjualan di Pasar Denggung"
   },
   {
     "id": "be63a1b2-65f1-4387-bd76-1f4e626399c6",
     "owner": "Yuliana Berkah Handayani",
     "businessName": "Yuliana Berkah Handayani",
     "address": "Perum GTA Blok A 313, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 2805\n  0264",
+    "phone": "0813 2805 0264",
     "type": "Lainnya",
-    "description": "Dijual ubi cilembu mentah dan\n  matang. Harga ubi mentah Rp 15.000/kg, dan ubi matang Rp 20.000/kg."
+    "description": "Dijual ubi cilembu mentah dan matang. Harga ubi mentah Rp 15.000/kg, dan ubi matang Rp 20.000/kg."
   },
   {
     "id": "e7b9a0e1-1518-4354-9797-b886d12a1159",
     "owner": "Heribertus Ekoedi Sulistya",
     "businessName": "Heribertus Ekoedi Sulistya",
-    "address": "Perum GTA Blok F 327, Donoharjo, Ngaglik,  Sleman, Yogyakarta",
-    "phone": "0857 4347\n  2459",
+    "address": "Perum GTA Blok F 327, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0857 4347 2459",
     "type": "Kuliner",
-    "description": "Menyediakan susu bubuk kambing\n  Etawwa dengan rasa coklat, strawbery dan original. Harga Rp 25.000/pak (200\n  gram)."
+    "description": "Menyediakan susu bubuk kambing Etawwa dengan rasa coklat, strawbery dan original. Harga Rp 25.000/pak (200 gram)."
   },
   {
     "id": "ca95cac7-1100-4212-ad3f-8d3f8ecd4f56",
     "owner": "A. Martoyo",
     "businessName": "A. Martoyo",
-    "address": "Balong, Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
-    "phone": "0858 7881\n  7919",
+    "address": "Balong, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0858 7881 7919",
     "type": "Lainnya",
     "description": "Menyediakan salak pondok setiap saat"
   },
@@ -697,189 +697,189 @@
     "owner": "Cecilia Warsiti Marsono",
     "businessName": "Cecilia Warsiti Marsono",
     "address": "Perum GTA Blok B 509, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0274)\n  866571 dan  0813 3031 9460",
+    "phone": "0274) 866571 dan 0813 3031 9460",
     "type": "Kuliner",
-    "description": "Butik Devi merupakan Multi\n  Usaha :\n\na. Busana, Textile &\n  Modiste Menyediakan Busana Jadi Pria dan Wanita, anak-anak,  aneka model kebaya, dress, rok, kemeja dan\n  Busana Muslim.\n\nb. Menyediakan Textile, aneka\n  jenis dan Motif.                 \n\nc. Menyediakan Shibori, Batik\n  Tulis kombinasi : Sinom Parijoto.\n\nd. Menerima  Pesanan : Busana sesuai model & ukuran,\n  jenis bahan yang cocok untuk Anda.\n\ne. Menerima Kursus Menjahit.\n\nf.  Buka setiap hari : Jam 08.00 s/d  21.00"
+    "description": "Butik Devi merupakan Multi Usaha :\n\na. Busana, Textile & Modiste Menyediakan Busana Jadi Pria dan Wanita, anak-anak, aneka model kebaya, dress, rok, kemeja dan Busana Muslim.. Menyediakan Textile, aneka jenis dan Motif. \n\nc. Menyediakan Shibori, Batik Tulis kombinasi : Sinom Parijoto.\n\nd. Menerima Pesanan : Busana sesuai model & ukuran, jenis bahan yang cocok untuk Anda.\n\ne. Menerima Kursus Menjahit.\n\nf. Buka setiap hari : Jam 08.00 s/d 21.00"
   },
   {
     "id": "f4679e9a-d935-4436-807e-6590ec7cf659",
-    "owner": "M. Kristianingrum  (Ina)",
-    "businessName": "M. Kristianingrum  (Ina)",
-    "address": "Karangtanjung, Pandowoharjo, \n  Sleman, 55512 Yogyakarta",
-    "phone": "0813 2920\n  2067",
+    "owner": "M. Kristianingrum (Ina)",
+    "businessName": "M. Kristianingrum (Ina)",
+    "address": "Karangtanjung, Pandowoharjo, Sleman, 55512 Yogyakarta",
+    "phone": "0813 2920 2067",
     "type": "Fashion",
-    "description": "Jenis batik yang dipasarkan In\n  Naturally Batik.  Dalam bentuk kain dan\n  busana. Menyediakan kain batik baik untuk perorangan maupun untuk seragam\n  batik. Menerima pesanan partai besar maupun kecil (eceran)."
+    "description": "Jenis batik yang dipasarkan In Naturally Batik. Dalam bentuk kain dan busana. Menyediakan kain batik baik untuk perorangan maupun untuk seragam batik. Menerima pesanan partai besar maupun kecil (eceran)."
   },
   {
     "id": "5ca5d55f-cc25-4c7d-8e7e-add186bfb23e",
     "owner": "Paulus Wisnu H.",
     "businessName": "Paulus Wisnu H.",
     "address": "Brayut RT. 01, RW. 28, Pandowoharjo, Sleman, 55512 Yogyakarta",
-    "phone": "0857 1373\n  8337",
+    "phone": "0857 1373 8337",
     "type": "Kuliner",
-    "description": "Usaha dagang ini dilakukan\n  turun temurun dari orang tua. Jenis beras : Menthik Wangi,Jasmis dan Beras\n  Merah.\n\nBeras alami adalah beras yang\n  dibudidayakan menggunakan teknologi yang ramah lingkungan serta tidak\n  menggunakan pestisida sintetis dan pupuk sintetis seperti ponska dan urea. \n\nUntuk beras dengan pupuk\n  sintetis dengan varietas Ir 64 dan Rojolele. Pemesanan bisa dilakukan  2 (dua) hari sebelum hari H, dengan jaminan\n  beras fresh giling. Tanpa tambahan ongkos kirim.\n\nSiap antar, Menyediakan Beras\n  Organik & Non Organik dari ladang sendiri dan menerima pesanan pembuatan\n  Snack (Siomay, Nasi Bakar, dll)"
+    "description": "Usaha dagang ini dilakukan turun temurun dari orang tua. Jenis beras : Menthik Wangi,Jasmis dan Beras Merah.\n\nBeras alami adalah beras yang dibudidayakan menggunakan teknologi yang ramah lingkungan serta tidak menggunakan pestisida sintetis dan pupuk sintetis seperti ponska dan urea. \n\nUntuk beras dengan pupuk sintetis dengan varietas Ir 64 dan Rojolele. Pemesanan bisa dilakukan 2 (dua) hari sebelum hari H, dengan jaminan beras fresh giling. Tanpa tambahan ongkos kirim.\n\nSiap antar, Menyediakan Beras Organik & Non Organik dari ladang sendiri dan menerima pesanan pembuatan Snack (Siomay, Nasi Bakar, dll)"
   },
   {
     "id": "70addd2d-fe20-4d33-be81-b5c193ca5416",
     "owner": "Agung Gunanjar",
     "businessName": "Agung Gunanjar",
-    "address": "Niron (Utara Jejamuran), Pandowoharjo,  Sleman, 55512 Yogyakarta",
-    "phone": "0877 3950\n  4000  dan 0858 7863 2774",
+    "address": "Niron (Utara Jejamuran), Pandowoharjo, Sleman, 55512 Yogyakarta",
+    "phone": "0877 3950 4000 dan 0858 7863 2774",
     "type": "Kuliner",
-    "description": "Pengusaha ini melakukan multi\n  usaha, usaha dagang dan jasa. Usaha yang dilakukan :\n\na. Jual beli padi/gabah\n\nb. Jual beli beras (Grosir)\n\nc. Jual beli krupuk ketela baik\n  mentah maupun matang\n\nd. Jual  beli \n  ayam  kampung  maupun \n  ayam  potong,  dan sekaligus memberikan pelayanan pemotongan\n  ayam dan siap antar.\n\ne. Melayani jasa angkut\n  luar/dalam kota."
+    "description": "Pengusaha ini melakukan multi usaha, usaha dagang dan jasa. Usaha yang dilakukan :\n\na. Jual beli padi/gabah. Jual beli beras (Grosir)\n\nc. Jual beli krupuk ketela baik mentah maupun matang\n\nd. Jual beli ayam kampung maupun ayam potong, dan sekaligus memberikan pelayanan pemotongan ayam dan siap antar.\n\ne. Melayani jasa angkut luar/dalam kota."
   },
   {
     "id": "54fab76f-a330-4d44-8eee-889241286830",
     "owner": "Alb. Budiman dan Ibu Relawati",
     "businessName": "Alb. Budiman dan Ibu Relawati",
-    "address": "Pajangan  RT 03, RW 09,\n  Pandowoharjo, Sleman, 55512 Yogyakarta",
-    "phone": "(0274)\n  867 795  dan HP 0813 2884 2175",
+    "address": "Pajangan RT 03, RW 09, Pandowoharjo, Sleman, 55512 Yogyakarta",
+    "phone": "(0274) 867 795 dan HP 0813 2884 2175",
     "type": "Kuliner",
-    "description": "Usaha yang dilakukan dengan\n  menjual gas dan air mineral dimulai pada tahun 2002. Konsumen bisa memesan\n  gas dan air mineral lewat telepon saja, gas /air mineral akan diantar sampai\n  ke tempat. Pelanggan tidak hanya dari dusun Pajangan saja tapi juga dari luar\n  dusun. Sesuai dengan perkembangan usaha, maka tahun 2016 Ibu Relawati (isteri\n  Bp Budiman) membuat Tahu bakso. Tahu bakso pada pagi hari  disetorkan ke pusat jajan pasar dan pada\n  sore hari dipasarkan ke angkringan. \n  Rasanya tidak diragukan lagi. Untuk Tahu bakso, Ibu Relawati menerima\n  pesanan baik partai besar/kecil."
+    "description": "Usaha yang dilakukan dengan menjual gas dan air mineral dimulai pada tahun 2002. Konsumen bisa memesan gas dan air mineral lewat telepon saja, gas /air mineral akan diantar sampai ke tempat. Pelanggan tidak hanya dari dusun Pajangan saja tapi juga dari luar dusun. Sesuai dengan perkembangan usaha, maka tahun 2016 Ibu Relawati (isteri Bp Budiman) membuat Tahu bakso. Tahu bakso pada pagi hari disetorkan ke pusat jajan pasar dan pada sore hari dipasarkan ke angkringan. Rasanya tidak diragukan lagi. Untuk Tahu bakso, Ibu Relawati menerima pesanan baik partai besar/kecil."
   },
   {
     "id": "7d9c63a7-8d1f-40a4-ba70-ac9afad80d9d",
     "owner": "V. Edy Purwanto",
     "businessName": "V. Edy Purwanto",
-    "address": "Gondanglutung  RT. 03 RW. 19,\n  Donoharjo, Ngaglik,  Sleman, Yogyakarta",
-    "phone": "081 2272\n  6831",
+    "address": "Gondanglutung RT. 03 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "081 2272 6831",
     "type": "Lainnya",
-    "description": "Menyediakan oli dan ban serta\n  onderdil sepeda motor. Buka hari Senin – Sabtu, jam 07.00 – 16.00"
+    "description": "Menyediakan oli dan ban serta onderdil sepeda motor. Buka hari Senin - Sabtu, jam 07.00 - 16.00"
   },
   {
     "id": "4d491bc2-2db6-4e78-881e-55dbe9f55514",
     "owner": "Daniel Yulianto",
     "businessName": "Daniel Yulianto",
-    "address": "Gondanglutung  RT. 03 RW. 19,\n  Donoharjo, Ngaglik,  Sleman, Yogyakarta",
-    "phone": "(0274)\n  4360250",
+    "address": "Gondanglutung RT. 03 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "(0274) 4360250",
     "type": "Pertanian",
-    "description": "Pengusaha ini membuka usaha\n  sampingan memberikan jasa pembayaran listrik, telepon, pulsa, PDAM dan\n  transfer BPJS. Buka setiap hari pukul 08.00 – 21.00 WIB."
+    "description": "Pengusaha ini membuka usaha sampingan memberikan jasa pembayaran listrik, telepon, pulsa, PDAM dan transfer BPJS. Buka setiap hari pukul 08.00 - 21.00 WIB."
   },
   {
     "id": "1142c318-c338-4a5c-82ac-d895fdd6bdd0",
     "owner": "Rini Susanto",
     "businessName": "Rini Susanto",
-    "address": "Gondanglutung  RT. 02 RW. 19,\n  Donoharjo, Ngaglik,  Sleman, Yogyakarta",
-    "phone": "(0274)\n  4363213",
+    "address": "Gondanglutung RT. 02 RW. 19, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "(0274) 4363213",
     "type": "Jasa",
-    "description": "Toko ini menjual alat-alat\n  pancing, alat-alat pramuka, alat tulis kantor serta barang-barang  kelontong yang lain.  Usaha sampingan toko ini adalah fotocopy,\n  jilid dan laminating."
+    "description": "Toko ini menjual alat-alat pancing, alat-alat pramuka, alat tulis kantor serta barang-barang kelontong yang lain. Usaha sampingan toko ini adalah fotocopy, jilid dan laminating."
   },
   {
     "id": "ace91b1e-da45-491e-980b-409c168ee84c",
     "owner": "Y. Thomas Joko Krismanto",
     "businessName": "Y. Thomas Joko Krismanto",
     "address": "Ngepas Lor, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 2739\n  5026",
+    "phone": "0813 2739 5026",
     "type": "Kuliner",
-    "description": "Usaha ini tidak hanya berdagang\n  alat-alat pertanian, tetapi mempunyai usaha sampingan yaitu menanam dan\n  menjual berbagai macam sayuran organik. \n  Di tempat usaha  menjual\n  Alat-alat pertanian dan bibit tanaman. Bagi konsumen yang membutuhkan,\n  silahkan pesan (lewat telepon) dan pesanan siap diantar."
+    "description": "Usaha ini tidak hanya berdagang alat-alat pertanian, tetapi mempunyai usaha sampingan yaitu menanam dan menjual berbagai macam sayuran organik. Di tempat usaha menjual Alat-alat pertanian dan bibit tanaman. Bagi konsumen yang membutuhkan, silahkan pesan (lewat telepon) dan pesanan siap diantar."
   },
   {
     "id": "7bbe975c-c4d5-4021-bd1c-8fbd8f1b8789",
     "owner": "Aulia Miranti",
     "businessName": "Aulia Miranti",
     "address": "Sompilan, Donoharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0819 0344\n  4437  dan  0822 2034 3788",
+    "phone": "0819 0344 4437 dan 0822 2034 3788",
     "type": "Kuliner",
-    "description": "Usaha ini merupakan toko\n  kelontong disamping usaha menjual (retail) segala minuman, Aqua, The Botol,\n  Bir, Fanta, Sprite, dll.  Menerima\n  pesanan dalam partai besar maupun kecil (Free Delivery)."
+    "description": "Usaha ini merupakan toko kelontong disamping usaha menjual (retail) segala minuman, Aqua, The Botol, Bir, Fanta, Sprite, dll. Menerima pesanan dalam partai besar maupun kecil (Free Delivery)."
   },
   {
     "id": "111bc459-4387-4187-8d18-74ef854bcb75",
     "owner": "Christina Kartini",
     "businessName": "Christina Kartini",
-    "address": "Mancasan, Pandowoharjo, \n  Sleman, Yogyakarta",
-    "phone": "(0274)  867491",
+    "address": "Mancasan, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "(0274) 867491",
     "type": "Lainnya",
-    "description": "Menyediakan sembako dan\n  kebutuhan sehari-hari"
+    "description": "Menyediakan sembako dan kebutuhan sehari-hari"
   },
   {
     "id": "f6712098-e35c-4584-ad20-88d2813335a0",
     "owner": "Caecilia Endang N. (Mbak Endang)",
-    "businessName": "Caecilia Endang N. (Mbak Endang)",
-    "address": "a. Rumah : Temon RT. 03 RW. 23, Pandowoharjo, Sleman, Yogyakarta\n\nb. Tempat usaha : Jln. Griya Taman Asri No.10 Tlacap, Pandowoharjo,\n  Sleman, Yogyakarta",
-    "phone": "0813 3499\n  5787",
+    "businessName": "Sentanu Fashion Batik",
+    "address": "Rumah : Temon RT. 03 RW. 23, Pandowoharjo, Sleman, Yogyakarta. Tempat usaha : Jln. Griya Taman Asri No.10 Tlacap, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0813 3499 5787",
     "type": "Fashion",
-    "description": "Menjual kain batik, hem batik,\n  dress, dll. Disamping itu ada pula pernak-pernik, kalung, gelang, dsb."
+    "description": "Menjual kain batik, hem batik, dress, dll. Disamping itu ada pula pernak-pernik, kalung, gelang, dsb."
   },
   {
     "id": "81c0c3c1-cb15-44e3-8089-0b654fef123a",
     "owner": "Desy Kurniawati Aurelia",
     "businessName": "Desy Kurniawati Aurelia",
     "address": "Jln. Pandowoharjo, Sawahan, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0822\n  2115  4594",
+    "phone": "0822 2115 4594",
     "type": "Lainnya",
-    "description": "Menjual berbagai macam\n  obat-obatan : obat generic, obat Farmasi, Vitamin, dll."
+    "description": "Menjual berbagai macam obat-obatan : obat generic, obat Farmasi, Vitamin, dll."
   },
   {
     "id": "f6625470-6997-45e9-8a52-aea16c71cfc5",
     "owner": "B. Ari Megawati",
     "businessName": "B. Ari Megawati",
-    "address": "Karangasem, Pandowoharjo, \n  Sleman, Yogyakarta",
-    "phone": "0852 2548\n  8496",
+    "address": "Karangasem, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0852 2548 8496",
     "type": "Lainnya",
-    "description": "Siap\n  menerima pesanan"
+    "description": "Siap menerima pesanan"
   },
   {
     "id": "aec8b9d6-4e97-46b8-8f5c-ce1728974da1",
     "owner": "FX. Tri Subadi",
     "businessName": "FX. Tri Subadi",
     "address": "Karangasem, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0819  0428 7899",
+    "phone": "0819 0428 7899",
     "type": "Lainnya",
-    "description": "Menjual grosir sembako dan\n  berbagai macam kebutuhan sehari-hari."
+    "description": "Menjual grosir sembako dan berbagai macam kebutuhan sehari-hari."
   },
   {
     "id": "a6741323-0e63-4e76-a686-6f93dadb00ad",
     "owner": "Y.B. Kasmanto Hadi",
     "businessName": "Y.B. Kasmanto Hadi",
     "address": "Karangasem, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0818 0266\n  0887",
+    "phone": "0818 0266 0887",
     "type": "Lainnya",
-    "description": "Menjual\n  grosir minyak goreng"
+    "description": "Menjual grosir minyak goreng"
   },
   {
     "id": "6feda5a9-3270-4e86-a445-e973c9ddcd5f",
     "owner": "Yohanes Berchman Subejo",
     "businessName": "Yohanes Berchman Subejo",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman DIY",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman DIY",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Menyediakan barang kelontong,\n  plastik, alat kue, dan sayur mentah."
+    "description": "Menyediakan barang kelontong, plastik, alat kue, dan sayur mentah."
   },
   {
     "id": "313138c0-c792-4c52-9ae6-9e5281f8057d",
     "owner": "Pius Priyosusilo",
     "businessName": "Pius Priyosusilo",
     "address": "Jl. Tentara Pelajar KM. 13,6 Donoharjo, Ngaglik, Sleman DIY",
-    "phone": "0812 2509\n  0765",
+    "phone": "0812 2509 0765",
     "type": "Lainnya",
-    "description": "Siap melayani pesanan segala\n  macam bahan bangunan partai besar dan kecil"
+    "description": "Siap melayani pesanan segala macam bahan bangunan partai besar dan kecil"
   },
   {
     "id": "b65f606c-9976-483d-80ba-abb7dfeec172",
     "owner": "Margaretha Tanty Rindyawati",
     "businessName": "Margaretha Tanty Rindyawati",
     "address": "Tlacap RT. 001 RW. 001 Pandowoharjo Sleman Yogyakarta",
-    "phone": "0857 2923\n  6601",
+    "phone": "0857 2923 6601",
     "type": "Lainnya",
-    "description": "Usaha berlangsung sejak Mei\n  2014, Toko kami buka dari jam 07.00 – 18.00 Wib kecuali hari libur tutup"
+    "description": "Usaha berlangsung sejak Mei 2014, Toko kami buka dari jam 07.00 - 18.00 Wib kecuali hari libur tutup"
   },
   {
     "id": "5999e849-0581-440d-9a96-23d2ffa897ad",
     "owner": "J. Eko Subekti",
     "businessName": "J. Eko Subekti",
     "address": "Tlacap RT. 001 RW. 001 Pandowoharjo, Sleman Yogyakarta",
-    "phone": "0812 2755\n  5579",
+    "phone": "0812 2755 5579",
     "type": "Kuliner",
-    "description": "Usaha kami berdiri sejak tahun 2014, kami\n  menerima pesanan partai besar/ partai kecil berupa makanan, kue, roti, nasi."
+    "description": "Usaha kami berdiri sejak tahun 2014, kami menerima pesanan partai besar/ partai kecil berupa makanan, kue, roti, nasi."
   },
   {
     "id": "e3512847-73d0-48d5-add0-e07e83411619",
     "owner": "Ambrosius Margono",
     "businessName": "Ambrosius Margono",
-    "address": "Mlaten,\n  Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0274 –\n  864 883",
+    "address": "Mlaten, Pandowoharjo, Sleman, Yogyakarta",
+    "phone": "0274 - 864 883",
     "type": "Pertanian",
-    "description": "Menyediakan sembako, bibit\n  kacang tanah, dsb"
+    "description": "Menyediakan sembako, bibit kacang tanah, dsb"
   },
   {
     "id": "6fbfdcf5-413b-4a53-ba61-cb09044e370c",
@@ -888,13 +888,13 @@
     "address": "Brengosan Donoharjo, Ngaglik, Sleman, Yogyakarta",
     "phone": "-",
     "type": "Kuliner",
-    "description": "Toko bahan sembako dan toko\n  bahan makanan kecil"
+    "description": "Toko bahan sembako dan toko bahan makanan kecil"
   },
   {
     "id": "21a7fe49-ed1f-4b12-a04f-c56ca5711f9c",
     "owner": "Es. Darsono & Ana",
     "businessName": "Es. Darsono & Ana",
-    "address": "Jl.\n  Kaliurang Km. 10,2 Gentan, Ngaglik, Sleman",
+    "address": "Jl. Kaliurang Km. 10,2 Gentan, Ngaglik, Sleman",
     "phone": "-",
     "type": "Lainnya",
     "description": "Sedia bahan bangunan"
@@ -903,71 +903,71 @@
     "id": "cc2692aa-74ce-4aaf-82a2-b07a34e7027c",
     "owner": "Hardjatmo",
     "businessName": "Hardjatmo",
-    "address": "Majegan,\n  Pandowoharjo, Sleman",
-    "phone": "0857 6670\n  2699",
+    "address": "Majegan, Pandowoharjo, Sleman",
+    "phone": "0857 6670 2699",
     "type": "Lainnya",
-    "description": "Menjual berbagai macam\n  kebutuhan sehari-hari."
+    "description": "Menjual berbagai macam kebutuhan sehari-hari."
   },
   {
     "id": "e2e194e0-5332-42bd-a444-518b6cd7a46a",
     "owner": "Yohanes Wahyu Putrawan",
     "businessName": "Yohanes Wahyu Putrawan",
     "address": "Rumah : Tegalrejo RT 01 RW 09 Sariharjo Ngaglik, Sleman",
-    "phone": "0812 9111\n  6561",
+    "phone": "0812 9111 6561",
     "type": "Kuliner",
-    "description": "Menyediakan sembako, pulsa,\n  token listrik, pembayaran BPJS dan E-Warung."
+    "description": "Menyediakan sembako, pulsa, token listrik, pembayaran BPJS dan E-Warung."
   },
   {
     "id": "921b3e98-262d-42c3-8aa8-b517e90f5814",
     "owner": "Martinus Budiharjo",
     "businessName": "Martinus Budiharjo",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman,YK",
-    "phone": "0858 6939\n  8278",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman,YK",
+    "phone": "0858 6939 8278",
     "type": "Pertanian",
-    "description": "Menyediakan bibit kelinci,\n  kelinci dewasa, pupuk kandang kelinci padat dan cair."
+    "description": "Menyediakan bibit kelinci, kelinci dewasa, pupuk kandang kelinci padat dan cair."
   },
   {
     "id": "fdd6e1f3-fec2-4720-8232-f8fbf647df15",
     "owner": "Blasius Sukarjo",
     "businessName": "Blasius Sukarjo",
     "address": "Dukuh RT. 04 RW. 21, Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0812 2573\n  9935  dan  0813 2806 5566",
+    "phone": "0812 2573 9935 dan 0813 2806 5566",
     "type": "Pertanian",
-    "description": "Pengusaha ini melayani\n  penjualan telur ayam secara eceran maupun penjualan dengan box/kotak.\n  Melayani penjualan telur ayam di rumah. Melayani pesanan dan melayani siap\n  antar."
+    "description": "Pengusaha ini melayani penjualan telur ayam secara eceran maupun penjualan dengan box/kotak. Melayani penjualan telur ayam di rumah. Melayani pesanan dan melayani siap antar."
   },
   {
     "id": "5f919665-d273-4213-b248-86e0945c1e81",
     "owner": "Y. Okta Variyantoro",
     "businessName": "Y. Okta Variyantoro",
-    "address": "Ringinputih, Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
-    "phone": "0838 6762\n  1126",
+    "address": "Ringinputih, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0838 6762 1126",
     "type": "Kuliner",
-    "description": "Usaha ini dirintis sudah lebih\n  dari 7 tahun.  Awalnya burung yang\n  dipelihara dan ditangkarkan adalah Lovebird dan Kenari. Karena sudah menjadi\n  karyawan swata tetap, maka usaha ini menjadi usaha sampingan. Burung yang\n  ditangkarkan dan dipelihara tinggal Lovebird saja. Silahkan yang berminat,\n  boleh melihat dan membelinya."
+    "description": "Usaha ini dirintis sudah lebih dari 7 tahun. Awalnya burung yang dipelihara dan ditangkarkan adalah Lovebird dan Kenari. Karena sudah menjadi karyawan swata tetap, maka usaha ini menjadi usaha sampingan. Burung yang ditangkarkan dan dipelihara tinggal Lovebird saja. Silahkan yang berminat, boleh melihat dan membelinya."
   },
   {
     "id": "8a6593f5-0261-445f-bc54-55e46b509601",
     "owner": "P. Sunarto",
     "businessName": "P. Sunarto",
     "address": "Tambakrejo RT. 04 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta",
-    "phone": "0813 9218\n  6154",
+    "phone": "0813 9218 6154",
     "type": "Kuliner",
-    "description": "Usaha ini sudah berlangsung\n  lebih dari 8 tahun. Merupakan usaha keluarga. Menerima pesanan ikan untuk\n  konsumsi (Ikan Gurameh, Ikan Lele dan Ikan Nila). Harga bersahabat."
+    "description": "Usaha ini sudah berlangsung lebih dari 8 tahun. Merupakan usaha keluarga. Menerima pesanan ikan untuk konsumsi (Ikan Gurameh, Ikan Lele dan Ikan Nila). Harga bersahabat."
   },
   {
     "id": "56122e29-227a-40a5-8098-9f943d45d258",
     "owner": "E. Bambang Handaka",
     "businessName": "E. Bambang Handaka",
-    "address": "Tambakrejo RT. 05 RW. 12, Sariharjo, Ngaglik,  Sleman, Yogyakarta",
-    "phone": "081 2844\n  1954",
+    "address": "Tambakrejo RT. 05 RW. 12, Sariharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "081 2844 1954",
     "type": "Kuliner",
-    "description": "Usaha ini berjalan hampir 2\n  (dua) tahun.  Dari usahanya, Itik\n  (bebek) yang dipelihara  jumlahnya\n  cukup banyak. Dalam sehari diperoleh telur antara 325 – 350 butir. Melayani\n  permintaan telur, baik partai besar maupun kecil."
+    "description": "Usaha ini berjalan hampir 2 (dua) tahun. Dari usahanya, Itik (bebek) yang dipelihara jumlahnya cukup banyak. Dalam sehari diperoleh telur antara 325 - 350 butir. Melayani permintaan telur, baik partai besar maupun kecil."
   },
   {
     "id": "696a4a8c-801a-4d1a-a7e0-85fe99f83c8a",
     "owner": "Ch. Marsini",
     "businessName": "Ch. Marsini",
-    "address": "Ngepas Lor, Donoharjo, Ngaglik, \n  Sleman, Yogyakarta",
-    "phone": "0822 2621\n  5030",
+    "address": "Ngepas Lor, Donoharjo, Ngaglik, Sleman, Yogyakarta",
+    "phone": "0822 2621 5030",
     "type": "Pertanian",
     "description": "Melayani pesanan ayam kampung dan siap antar ke tempat konsumen"
   },
@@ -975,43 +975,43 @@
     "id": "fdaf535a-154a-4608-8e05-f1f7fb2d921f",
     "owner": "Petrus Suratno",
     "businessName": "Petrus Suratno",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman DIY",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman DIY",
     "phone": "-",
     "type": "Pertanian",
-    "description": "Menyediakan bibit kambing,\n  kambing dewasa, pupuk kandang."
+    "description": "Menyediakan bibit kambing, kambing dewasa, pupuk kandang."
   },
   {
     "id": "f87ec550-48d4-48be-be3f-5472de31027b",
     "owner": "Antonius Ngadiono",
     "businessName": "Antonius Ngadiono",
-    "address": "Wonosari,\n  Donoharjo, Ngaglik, Sleman DIY",
-    "phone": "0813 2883\n  8588",
+    "address": "Wonosari, Donoharjo, Ngaglik, Sleman DIY",
+    "phone": "0813 2883 8588",
     "type": "Pertanian",
-    "description": "Menyediakan bibit sapi, calon\n  indukan, Indukan, pupuk kandang dan beras merah."
+    "description": "Menyediakan bibit sapi, calon indukan, Indukan, pupuk kandang dan beras merah."
   },
   {
     "id": "d1321251-d85f-4b91-be98-283e65ea3472",
     "owner": "Valen Sujatmiko",
     "businessName": "Valen Sujatmiko",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman DIY",
-    "phone": "0812 2633\n  5668",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman DIY",
+    "phone": "0812 2633 5668",
     "type": "Pertanian",
-    "description": "Menyediakan bibit burung\n  Cucakrawa , Calon Indukan, Dewasa"
+    "description": "Menyediakan bibit burung Cucakrawa , Calon Indukan, Dewasa"
   },
   {
     "id": "07079360-1874-4392-a2b7-9a2246d8564e",
     "owner": "Damaskus Sapto Prihono",
     "businessName": "Damaskus Sapto Prihono",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman,YK",
-    "phone": "0856 2876\n  194",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman,YK",
+    "phone": "0856 2876 194",
     "type": "Pertanian",
-    "description": "Menyediakan bibit burung\n  Kenari, Calon Indukan, Indukan."
+    "description": "Menyediakan bibit burung Kenari, Calon Indukan, Indukan."
   },
   {
     "id": "172b19da-821e-461e-82e6-d25792878a37",
     "owner": "Ponijo",
     "businessName": "Ponijo",
-    "address": "Ngelo RT.\n  02 RW. 35 Pandowoharjo, Sleman",
+    "address": "Ngelo RT. 02 RW. 35 Pandowoharjo, Sleman",
     "phone": "-",
     "type": "Lainnya",
     "description": "Siap melayani pesanan"
@@ -1020,7 +1020,7 @@
     "id": "96bdbdbb-0a62-47cd-aad9-f9e77e57615e",
     "owner": "Tugiyo",
     "businessName": "Tugiyo",
-    "address": "Majegan,\n  Pandowoharjo, Sleman",
+    "address": "Majegan, Pandowoharjo, Sleman",
     "phone": "-",
     "type": "Lainnya",
     "description": "Siap melayani pesanan"
@@ -1029,8 +1029,8 @@
     "id": "4239f64c-b400-4564-811a-37e1586b0484",
     "owner": "Pujiyanta",
     "businessName": "Pujiyanta",
-    "address": "Nyaen RT.\n  01 RW. 34, Pandowoharjo, Sleman",
-    "phone": "0817 9403\n  042",
+    "address": "Nyaen RT. 01 RW. 34, Pandowoharjo, Sleman",
+    "phone": "0817 9403 042",
     "type": "Pertanian",
     "description": "Penggemukan dan Peranakkan Induk Sapi"
   },
@@ -1039,61 +1039,61 @@
     "owner": "Martoyo",
     "businessName": "Martoyo",
     "address": "Dukuh RT. 03 RW. 21 Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0812 2661\n  3556",
+    "phone": "0812 2661 3556",
     "type": "Kerajinan",
-    "description": "Usaha ini merupakan usaha\n  keluarga yang sudah berlangsung cukup lama. Kualitas lilin produksinya sangat\n  baik. Ini terbukti banyaknya pesanan yang terus mengalir. Keluarga ini harus\n  bekerja sangat keras untuk memenuhi pesanan. Produk Lilinnya di pesan dari\n  berbagai tempat, misalnya : Timor Leste, Flores, Sumba (NTT), Kalimantan\n  (yang kemudian dijual ke Malaysia), Jakarta, Kaliori, Semarang. Beberapa\n  gereja sekitar, misal : Gereja Pangkalan, dan Medari. Untuk memenuhi Gereja\n  sekitar dan Umat Katolik ia melayani walau pembelian dengan partai yang\n  sangat kecil."
+    "description": "Usaha ini merupakan usaha keluarga yang sudah berlangsung cukup lama. Kualitas lilin produksinya sangat baik. Ini terbukti banyaknya pesanan yang terus mengalir. Keluarga ini harus bekerja sangat keras untuk memenuhi pesanan. Produk Lilinnya di pesan dari berbagai tempat, misalnya : Timor Leste, Flores, Sumba (NTT), Kalimantan (yang kemudian dijual ke Malaysia), Jakarta, Kaliori, Semarang. Beberapa gereja sekitar, misal : Gereja Pangkalan, dan Medari. Untuk memenuhi Gereja sekitar dan Umat Katolik ia melayani walau pembelian dengan partai yang sangat kecil."
   },
   {
     "id": "cd611e7a-8a12-425e-9f26-36c4b4beab5f",
     "owner": "Agustinus Prasetya Bawa Nugroho",
     "businessName": "Agustinus Prasetya Bawa Nugroho",
     "address": "Brayut RT. 004 RW. 029 Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "0857 2934\n  2385",
+    "phone": "0857 2934 2385",
     "type": "Kuliner",
-    "description": "Produksi dan menjual teh herbal\n  untuk kesehatan maupun diminum harian, bahan dari daun dan bunga (Kelor,\n  Mint, Rossella, Bunga Talang, dll)"
+    "description": "Produksi dan menjual teh herbal untuk kesehatan maupun diminum harian, bahan dari daun dan bunga (Kelor, Mint, Rossella, Bunga Talang, dll)"
   },
   {
     "id": "3df2325e-5c7e-492c-b9d5-e30d9fdd0119",
     "owner": "M.M. Astiani",
     "businessName": "M.M. Astiani",
-    "address": "Kayunan,\n  Donoharjo, Ngaglik, Sleman DIY",
-    "phone": "0858 6939\n  8278",
+    "address": "Kayunan, Donoharjo, Ngaglik, Sleman DIY",
+    "phone": "0858 6939 8278",
     "type": "Kuliner",
-    "description": "Siap melayani pesanan jamur\n  tiram dalam jumlah kecil dan besar."
+    "description": "Siap melayani pesanan jamur tiram dalam jumlah kecil dan besar."
   },
   {
     "id": "dbfadfa8-a7ef-46e0-868f-eac4e2bc1984",
     "owner": "Yulia Sutari",
     "businessName": "Yulia Sutari",
     "address": "Dukuh RT. 04 RW. 21 Pandowoharjo, Sleman, Yogyakarta",
-    "phone": "081 2278\n  0106",
+    "phone": "081 2278 0106",
     "type": "Kuliner",
-    "description": "Produsen ini menyediakan Susu\n  Sapi Segar. Pada  pagi hari, jam 07.30\n  dapat menyediakan 50 liter Susu Sapi Segar. Pada Sore hari, jam 18.00 s.d.\n  19.30 hanya melayani pembeli sebanyak 10 liter, karena produknya dibeli oleh\n  agen. Harga Susu Rp 8.000,00 per liter. Pengusaha ini juga melayani pembelian\n  Pedet (anak sapi) turunan induk sapi perah dan juga menjual pupuk kandang\n  dengan harga Rp 400.000,00 / truk. Pembelian ini dilakukan di tempat (ambil\n  sendiri di rumah)."
+    "description": "Produsen ini menyediakan Susu Sapi Segar. Pada pagi hari, jam 07.30 dapat menyediakan 50 liter Susu Sapi Segar. Pada Sore hari, jam 18.00 s.d. 19.30 hanya melayani pembeli sebanyak 10 liter, karena produknya dibeli oleh agen. Harga Susu Rp 8.000,00 per liter. Pengusaha ini juga melayani pembelian Pedet (anak sapi) turunan induk sapi perah dan juga menjual pupuk kandang dengan harga Rp 400.000,00 / truk. Pembelian ini dilakukan di tempat (ambil sendiri di rumah)."
   },
   {
     "id": "bc745bb5-6602-468c-860a-39d8a5a14abd",
     "owner": "Fajar",
     "businessName": "Fajar",
-    "address": "Jetisdonolayan,\n  Donoharjo Ngaglik, sleman YK",
-    "phone": "0877\n  38473838",
+    "address": "Jetisdonolayan, Donoharjo Ngaglik, sleman YK",
+    "phone": "0877 38473838",
     "type": "Pertanian",
-    "description": "Penjualan bibit pohon jati\n  emas, jati biasa. Harus ada pemesanan terlebih dahulu. Melayani partai besar\n  maupun kecil."
+    "description": "Penjualan bibit pohon jati emas, jati biasa. Harus ada pemesanan terlebih dahulu. Melayani partai besar maupun kecil."
   },
   {
     "id": "ed3da7c2-94b9-48b4-8a58-e5248fae3aa4",
     "owner": "H. Sumaryoto",
     "businessName": "H. Sumaryoto",
     "address": "Tambakrejo, RT. 02 RW. 11 Sariharjo, Ngaglik, Sleman Yogyakarta",
-    "phone": "0878 3470\n  7582",
+    "phone": "0878 3470 7582",
     "type": "Lainnya",
-    "description": "Siap melayani pesanan dalam\n  jumlah kecil dan besar"
+    "description": "Siap melayani pesanan dalam jumlah kecil dan besar"
   },
   {
     "id": "34afe507-8e5c-46a8-91e6-87b835f6e2fc",
     "owner": "Ignatius Miyadi",
     "businessName": "Ignatius Miyadi",
-    "address": "Karangkepuh\n  ( Don Bosco )",
-    "phone": "0857 4347\n  6372",
+    "address": "Karangkepuh ( Don Bosco )",
+    "phone": "0857 4347 6372",
     "type": "Lainnya",
     "description": "Siap melayani pesanan"
   },
@@ -1102,7 +1102,7 @@
     "owner": "Petrus Cipto Wiyarjo",
     "businessName": "Petrus Cipto Wiyarjo",
     "address": "Tambakrejo RT. 03 RW. 11 Sariharjo, Ngaglik, Sleman Yogyakarta",
-    "phone": "0878 2122\n  2283",
+    "phone": "0878 2122 2283",
     "type": "Lainnya",
     "description": "Siap melayani pesanan"
   },
@@ -1111,25 +1111,25 @@
     "owner": "Bernadeta Ari Andayani",
     "businessName": "Bernadeta Ari Andayani",
     "address": "Tambakrejo RT. 01 RW. 11 Sariharjo, Ngaglik, Sleman Yogyakarta",
-    "phone": "0857 9904\n  9552",
+    "phone": "0857 9904 9552",
     "type": "Kerajinan",
-    "description": "Membuat asesoris dari bahan\n  plastik kresek, pita, kain (bunga plastik, bando, jepet, bros)"
+    "description": "Membuat asesoris dari bahan plastik kresek, pita, kain (bunga plastik, bando, jepet, bros)"
   },
   {
     "id": "e62b9723-63dd-4094-ae5f-bd2cf2c443b6",
     "owner": "P. Nurwanto Hadi",
     "businessName": "P. Nurwanto Hadi",
     "address": "Tambakrejo RT 01 RW 11 Sariharjo, Ngaglik,Sleman Yogyakarta",
-    "phone": "0813 2726\n  7835",
+    "phone": "0813 2726 7835",
     "type": "Lainnya",
-    "description": "Siap melayani pesanan partai\n  besar maupun kecil."
+    "description": "Siap melayani pesanan partai besar maupun kecil."
   },
   {
     "id": "89484de7-ac85-40a0-a00b-fd8ac1ed13c4",
     "owner": "Yoh. Setyo Pribadi",
     "businessName": "Yoh. Setyo Pribadi",
-    "address": "Gabukan (\n  Don Bosco )",
-    "phone": "0822 2034\n  4031",
+    "address": "Gabukan ( Don Bosco )",
+    "phone": "0822 2034 4031",
     "type": "Lainnya",
     "description": "Siap melayani pesanan"
   },
@@ -1137,8 +1137,8 @@
     "id": "e29cab55-9896-4357-990c-8589cc2773d6",
     "owner": "Ngajiyah",
     "businessName": "Ngajiyah",
-    "address": "Ngelo RT.\n  02 RW. 35 Pandowoharjo, Sleman",
-    "phone": "0274 –\n  867 470",
+    "address": "Ngelo RT. 02 RW. 35 Pandowoharjo, Sleman",
+    "phone": "0274 867 470",
     "type": "Lainnya",
     "description": "Penjualan jeruk petik kebun"
   }
