@@ -56,7 +56,16 @@
     "address": "",
     "email": "",
     "phone": "",
-    "lingkungan": []
+    "lingkungan": [
+      {
+        "id": "4e568a1f-744b-413c-8452-4db57526f746",
+        "name": "St. Paulus Griya Taman Asri",
+        "chief": "Benediktus Jarot Sri Kastawa",
+        "address": "",
+        "email": "",
+        "phone": "082141362088"
+      }
+    ]
   },
   {
     "id": "f9777a08-21ff-4ce3-95ff-3c3b7f367aed",
