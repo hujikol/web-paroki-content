@@ -232,6 +232,15 @@
     "address": "",
     "email": "",
     "phone": "",
-    "lingkungan": []
+    "lingkungan": [
+      {
+        "id": "e98a6cb5-1134-48ef-b077-5ff6f3576c42",
+        "name": "St. Robertus Bellarminus Ngepas",
+        "chief": "Aluisius Heri Purnomo",
+        "address": "",
+        "email": "",
+        "phone": "081328437724"
+      }
+    ]
   }
 ]
