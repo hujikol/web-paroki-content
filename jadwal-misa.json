@@ -1,0 +1,41 @@
+{
+    "churches": [
+        {
+            "id": "gereja-paroki",
+            "name": "Gereja St. Yusup Tambakrejo (Paroki)",
+            "location": "Tambakrejo, Sariharjo, Ngaglik, Sleman",
+            "schedules": []
+        },
+        {
+            "id": "gereja-kayunan",
+            "name": "Gereja St. Petrus Kayunan",
+            "location": "Kayunan, Donoharjo, Ngaglik, Sleman",
+            "schedules": []
+        },
+        {
+            "id": "gereja-ngelo",
+            "name": "Gereja St. Venantius Ngelo",
+            "location": "Ngelo, Pandowoharjo, Sleman",
+            "schedules": []
+        },
+        {
+            "id": "gereja-karanglo",
+            "name": "Gereja St. Yosef Karanglo",
+            "location": "Karanglo, Donoharjo, Ngaglik, Sleman",
+            "schedules": []
+        },
+        {
+            "id": "gereja-karangkepuh",
+            "name": "Gereja St. Yohanes Rasul Karangkepuh",
+            "location": "Karang Kepuh, Pandowoharjo, Sleman",
+            "schedules": []
+        },
+        {
+            "id": "gereja-dukuh",
+            "name": "Gereja St. Fransiskus Xaverius Dukuh",
+            "location": "Dukuh, Pandowoharjo, Sleman",
+            "schedules": []
+        }
+    ],
+    "specialMasses": []
+}
