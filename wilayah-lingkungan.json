@@ -1,11 +1,11 @@
 [
   {
     "id": "fe68ba2d-f965-4493-ae10-3eaed8a1c2f5",
-    "name": "test wilayah 1",
-    "coordinator": "nama ketua",
-    "address": "alamat",
-    "email": "abc@mail.com",
-    "phone": "12341",
+    "name": "Wilayah Tambakrejo",
+    "coordinator": "Yohanes Bagas Nurogo",
+    "address": "",
+    "email": "",
+    "phone": "",
     "lingkungan": [
       {
         "id": "141c762f-802d-4dad-ae34-fd1274044cc4",
