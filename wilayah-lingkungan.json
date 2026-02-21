@@ -2,7 +2,7 @@
   {
     "id": "fe68ba2d-f965-4493-ae10-3eaed8a1c2f5",
     "name": "Wilayah Tambakrejo",
-    "coordinator": "Yohanes Bagas Nurogo",
+    "coordinator": "Bapak Yohanes Bagas Nurogo",
     "address": "",
     "email": "",
     "phone": "",
@@ -10,7 +10,7 @@
       {
         "id": "141c762f-802d-4dad-ae34-fd1274044cc4",
         "name": "St. Anna Tambakrejo",
-        "chief": "Antonius Tri Yuli Susanto",
+        "chief": "Bapak Antonius Tri Yuli Susanto",
         "address": "alamat",
         "email": "",
         "phone": "08112663750"
@@ -18,7 +18,7 @@
       {
         "id": "c249e5ac-dd35-4ab4-a337-e27cb25e2252",
         "name": "St. Faustina Tambakrejo",
-        "chief": "Bartolomeus Rahmadi",
+        "chief": "Bapak Bartolomeus Rahmadi",
         "address": "",
         "email": "",
         "phone": "081226838450"
@@ -26,7 +26,7 @@
       {
         "id": "02a3ecf8-97a7-4a4e-810e-ccfd6c114ab2",
         "name": "St. Veronika Tambakrejo",
-        "chief": "Petrus Sunarno",
+        "chief": "Bapak Petrus Sunarno",
         "address": "",
         "email": "",
         "phone": "081248945795"
@@ -34,7 +34,7 @@
       {
         "id": "471d5793-6891-43d4-bde9-9e413fe91e61",
         "name": "St. Maria Tambakrejo",
-        "chief": "Antonius Sunargiyanto",
+        "chief": "Bapak Antonius Sunargiyanto",
         "address": "",
         "email": "",
         "phone": "087839846114"
@@ -42,7 +42,7 @@
       {
         "id": "4fdd7fdb-e755-4e9d-91c1-0d8d0b0f9476",
         "name": "St. Maria Goreti Tambakrejo",
-        "chief": "FX Supriyadi",
+        "chief": "Bapak FX. Supriyadi",
         "address": "",
         "email": "",
         "phone": "082314431815"
@@ -52,7 +52,7 @@
   {
     "id": "8d5250fb-50a6-4ce8-a5de-f3f13935b907",
     "name": "Wilayah Karanglo",
-    "coordinator": "Irma Dewi DS",
+    "coordinator": "Ibu Irma Dewi DS",
     "address": "",
     "email": "",
     "phone": "",
@@ -60,7 +60,7 @@
       {
         "id": "4e568a1f-744b-413c-8452-4db57526f746",
         "name": "St. Paulus Griya Taman Asri",
-        "chief": "Benediktus Jarot Sri Kastawa",
+        "chief": "Bapak Benediktus Jarot Sri Kastawa",
         "address": "",
         "email": "",
         "phone": "082141362088"
@@ -68,7 +68,7 @@
       {
         "id": "1934e9b5-baae-489b-bd35-4be54d42088c",
         "name": "St. Elishabet Banteran",
-        "chief": "Yohanes Palmadi Saptoto",
+        "chief": "Bapak Yohanes Palmadi Saptoto",
         "address": "",
         "email": "",
         "phone": "085943447200"
@@ -76,7 +76,7 @@
       {
         "id": "beafca89-54e9-4d5d-85dd-a8eb072112f5",
         "name": "St. Lingkungan Antonius Bantarjo",
-        "chief": "Yohanes Suwarjono",
+        "chief": "Bapak Yohanes Suwarjono",
         "address": "",
         "email": "",
         "phone": "081904040175"
@@ -84,7 +84,7 @@
       {
         "id": "6594685f-80f2-4b14-b000-ad0064cc59b3",
         "name": "St. Fransiskus Borgias Karanglo",
-        "chief": "FX. Sunardi",
+        "chief": "Bapak FX. Sunardi",
         "address": "",
         "email": "",
         "phone": "0817461869"
@@ -94,7 +94,7 @@
   {
     "id": "f9777a08-21ff-4ce3-95ff-3c3b7f367aed",
     "name": "Wilayah Karangkepuh",
-    "coordinator": "Laurentius Sarjiono",
+    "coordinator": "Bapak Laurentius Sarjiono",
     "address": "",
     "email": "",
     "phone": "",
@@ -102,7 +102,7 @@
       {
         "id": "8977fa66-d506-4d6e-bc93-88171527c4b5",
         "name": "St. Yohanes Rasul Karangtanjung",
-        "chief": "Petrus Eko Siswanto",
+        "chief": "Bapak Petrus Eko Siswanto",
         "address": "",
         "email": "",
         "phone": "082125603060"
@@ -110,7 +110,7 @@
       {
         "id": "cc7d81fc-d2b5-4c80-bb8e-89489d616fba",
         "name": "St. Don Bosco",
-        "chief": "Paula Choiriyah Widiasih",
+        "chief": "Ibu Paula Choiriyah Widiasih",
         "address": "",
         "email": "",
         "phone": "081217728573"
@@ -118,7 +118,7 @@
       {
         "id": "7dc59268-5c70-431d-ad2f-1384ff5c3e7a",
         "name": "St. Yohanes Maria Vianney",
-        "chief": "Apollinarisravennatis Suta Karinta",
+        "chief": "Bapak Apollinarisravennatis Suta Karinta",
         "address": "",
         "email": "",
         "phone": "08175480009"
@@ -126,7 +126,7 @@
       {
         "id": "137e6481-b6d9-4bf1-b107-9875ad715b61",
         "name": "St. Yohanes Berchmans",
-        "chief": "Ermina Endang Sulastiningsih",
+        "chief": "Ibu Ermina Endang Sulastiningsih",
         "address": "",
         "email": "",
         "phone": "083840743298"
@@ -134,7 +134,7 @@
       {
         "id": "b6e8f2fb-4c34-4fda-a773-f4c6b08198d0",
         "name": "St. Yohanes Pembaptis Tlacap",
-        "chief": "Veronika Sumarwati",
+        "chief": "Ibu Veronika Sumarwati",
         "address": "",
         "email": "",
         "phone": "081328324592"
@@ -142,7 +142,7 @@
       {
         "id": "aae701e5-dfe5-41df-a922-9198b48b6dc2",
         "name": "St. Yohanes De Britto",
-        "chief": " Linus Suwardi",
+        "chief": "Bapak Linus Suwardi",
         "address": "",
         "email": "",
         "phone": "082133436463"
@@ -152,7 +152,7 @@
   {
     "id": "ba2af62f-d480-4143-b013-8470c9d2f362",
     "name": "Wilayah Dukuh",
-    "coordinator": "Bonaventura Bambang Riyadi",
+    "coordinator": "Bapak Bonaventura Bambang Riyadi",
     "address": "",
     "email": "",
     "phone": "",
@@ -160,7 +160,7 @@
       {
         "id": "cd67e8b5-cc5e-4324-aba0-fe45aa86db09",
         "name": "St. Andreas Dukuh",
-        "chief": "Antonius Basuki Agung Prastowo",
+        "chief": "Bapak Antonius Basuki Agung Prastowo",
         "address": "",
         "email": "",
         "phone": "082136284302"
@@ -168,7 +168,7 @@
       {
         "id": "a21a1903-b2e5-435f-93a8-618971a7a4b5",
         "name": "St. Vincentius Dukuh",
-        "chief": "Yohanes Miyanto",
+        "chief": "Bapak Yohanes Miyanto",
         "address": "",
         "email": "",
         "phone": "081246955798"
@@ -176,7 +176,7 @@
       {
         "id": "5128081f-7bd7-45e2-9624-c0cc72ee7949",
         "name": "St. Kristoforus Saron",
-        "chief": "Agustinus Budi Binuko",
+        "chief": "Bapak Agustinus Budi Binuko",
         "address": "",
         "email": "",
         "phone": "082232529742"
@@ -186,7 +186,7 @@
   {
     "id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
     "name": "Wilayah Ngelo",
-    "coordinator": "Wisnu Prasetyo",
+    "coordinator": "Bapak Wisnu Prasetyo",
     "address": "",
     "email": "",
     "phone": "",
@@ -194,7 +194,7 @@
       {
         "id": "6b37e989-0918-401d-a81f-bae653f693e8",
         "name": "St. Romualdus Jabung",
-        "chief": "Lucia Supadmi",
+        "chief": "Ibu Lucia Supadmi",
         "address": "",
         "email": "",
         "phone": "082313116986"
@@ -202,7 +202,7 @@
       {
         "id": "f419fbdc-4307-4e44-8c8f-881b0ce65cf6",
         "name": "St. Agustinus Ngelo",
-        "chief": "Lusia Ari Putrantiwi",
+        "chief": "Ibu Lusia Ari Putrantiwi",
         "address": "",
         "email": "",
         "phone": "08122730765"
@@ -210,7 +210,7 @@
       {
         "id": "cbed934a-3187-436e-8780-188ae2412008",
         "name": "St. Ignatius Temankarto",
-        "chief": "Maria Cicilia Wiwin Waluyani",
+        "chief": "Ibu Maria Cicilia Wiwin Waluyani",
         "address": "",
         "email": "",
         "phone": "081325877887"
@@ -218,7 +218,7 @@
       {
         "id": "b9da4c66-1b58-4117-af8a-759d2f0e64cb",
         "name": "St. Benedictus Brayut",
-        "chief": "Agustinus Prasetya Bawa Nugraha",
+        "chief": "Bapak Agustinus Prasetya Bawa Nugraha",
         "address": "",
         "email": "",
         "phone": "083851025815"
@@ -228,7 +228,7 @@
   {
     "id": "6c21ccfb-76e8-4686-a656-41c340c57647",
     "name": "Wilayah Kayunan",
-    "coordinator": "B. Agung Nugroho",
+    "coordinator": "Bapak B. Agung Nugroho",
     "address": "",
     "email": "",
     "phone": "",
@@ -236,7 +236,7 @@
       {
         "id": "e98a6cb5-1134-48ef-b077-5ff6f3576c42",
         "name": "St. Robertus Bellarminus Ngepas",
-        "chief": "Aluisius Heri Purnomo",
+        "chief": "Bapak Aluisius Heri Purnomo",
         "address": "",
         "email": "",
         "phone": "081328437724"
@@ -244,7 +244,7 @@
       {
         "id": "c18b9647-5421-45f6-9a2a-3eaed7d91555",
         "name": "St. Stefanus Kayunan",
-        "chief": "Theodorus Indarto",
+        "chief": "Bapak Theodorus Indarto",
         "address": "",
         "email": "",
         "phone": "82135197069"
@@ -252,7 +252,7 @@
       {
         "id": "ac236c00-65be-4c8a-b39b-db9a1c5acd32",
         "name": "St. Paulus Gondang Lutung",
-        "chief": "Elethius Bambang Handaka",
+        "chief": "Bapak Elethius Bambang Handaka",
         "address": "",
         "email": "",
         "phone": "08128441954"
@@ -260,7 +260,7 @@
       {
         "id": "dc89fc86-59dc-45f4-a9a3-fffc0bd908f1",
         "name": "St. Yohanes Brengosan",
-        "chief": "Engelbertus Wuryono",
+        "chief": "Bapak Engelbertus Wuryono",
         "address": "",
         "email": "",
         "phone": "087705584757"
