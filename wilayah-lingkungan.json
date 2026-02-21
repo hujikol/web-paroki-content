@@ -190,7 +190,16 @@
     "address": "",
     "email": "",
     "phone": "",
-    "lingkungan": []
+    "lingkungan": [
+      {
+        "id": "6b37e989-0918-401d-a81f-bae653f693e8",
+        "name": "St. Romualdus Jabung",
+        "chief": "Lucia Supadmi",
+        "address": "",
+        "email": "",
+        "phone": "082313116986"
+      }
+    ]
   },
   {
     "id": "6c21ccfb-76e8-4686-a656-41c340c57647",
