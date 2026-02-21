@@ -156,7 +156,16 @@
     "address": "",
     "email": "",
     "phone": "",
-    "lingkungan": []
+    "lingkungan": [
+      {
+        "id": "cd67e8b5-cc5e-4324-aba0-fe45aa86db09",
+        "name": "St. Andreas Dukuh",
+        "chief": "Antonius Basuki Agung Prastowo",
+        "address": "",
+        "email": "",
+        "phone": "082136284302"
+      }
+    ]
   },
   {
     "id": "2bd2c7ab-0dc0-4bf1-8cb3-8be333c90146",
