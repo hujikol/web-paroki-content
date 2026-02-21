@@ -98,7 +98,16 @@
     "address": "",
     "email": "",
     "phone": "",
-    "lingkungan": []
+    "lingkungan": [
+      {
+        "id": "8977fa66-d506-4d6e-bc93-88171527c4b5",
+        "name": "St. Yohanes Rasul Karangtanjung",
+        "chief": "Petrus Eko Siswanto",
+        "address": "",
+        "email": "",
+        "phone": "082125603060"
+      }
+    ]
   },
   {
     "id": "ba2af62f-d480-4143-b013-8470c9d2f362",
