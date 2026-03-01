@@ -62,7 +62,16 @@
       "id": "gereja-karangkepuh",
       "name": "Gereja St. Yohanes Rasul Karangkepuh",
       "location": "Karang Kepuh, Pandowoharjo, Sleman",
-      "schedules": []
+      "schedules": [
+        {
+          "day": "Minggu Minggu Kedua",
+          "times": [
+            "17.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Indonesia"
+        }
+      ]
     },
     {
       "id": "gereja-dukuh",
