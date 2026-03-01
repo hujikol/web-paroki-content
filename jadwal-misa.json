@@ -41,6 +41,14 @@
           ],
           "kategori": "Misa Mingguan",
           "notes": "Misa Bahasa Indonesia"
+        },
+        {
+          "day": "Sabtu Minggu Keempat",
+          "times": [
+            "18.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Jawa"
         }
       ]
     },
