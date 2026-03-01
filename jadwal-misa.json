@@ -33,7 +33,16 @@
       "id": "gereja-ngelo",
       "name": "Gereja St. Venantius Ngelo",
       "location": "Ngelo, Pandowoharjo, Sleman",
-      "schedules": []
+      "schedules": [
+        {
+          "day": "Sabtu Minggu Kedua",
+          "times": [
+            "18.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Indonesia"
+        }
+      ]
     },
     {
       "id": "gereja-karanglo",
