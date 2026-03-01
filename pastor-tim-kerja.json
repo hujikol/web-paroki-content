@@ -1,44 +1,722 @@
 {
   "pastor": [
     {
-      "id": "a1d3946a-320f-4343-bcce-7baa729d26e0",
-      "name": "test pastor",
-      "role": "test",
+      "id": "p-001",
+      "name": "Romo Benediktus Hanjar Krisnawan, Pr",
+      "role": "Pastor Paroki / Ketua Dewan Harian (ex officio)",
       "imageUrl": "",
-      "description": "edit biografi",
+      "description": "",
       "quote": "",
       "email": "",
       "phone": ""
     },
     {
-      "id": "35d928df-ce07-485e-a550-067aefe28670",
-      "name": "test",
-      "role": "test",
+      "id": "p-002",
+      "name": "Romo Paulus Susanto Prawirowardoyo, Pr",
+      "role": "Pastor Vikaris Paroki / Wakil Ketua I (ex officio)",
       "imageUrl": "",
-      "description": "biografi",
-      "quote": "quotes",
-      "email": "abc@mail.com",
-      "phone": "2345234"
+      "description": "",
+      "quote": "",
+      "email": "",
+      "phone": ""
     }
   ],
-  "timKerja": [
+  "seksi": [
     {
-      "id": "211e14d1-1b82-45f9-9342-32bac94792c1",
-      "name": "nama",
-      "role": "peran tugas",
-      "division": "bidang/divisi",
-      "quote": "quotes",
-      "email": "abc@mail.com",
-      "phone": "53242"
+      "id": "s-dewan",
+      "name": "DEWAN HARIAN",
+      "groups": [
+        {
+          "id": "g-dewan-01",
+          "name": "Pengurus Dewan Harian",
+          "members": [
+            {
+              "id": "m-dh-01",
+              "name": "Ignatius Loyola Djulaidi Tjatur Nugroho",
+              "role": "Wakil Ketua II"
+            },
+            {
+              "id": "m-dh-02",
+              "name": "Vincentia Any Prasetyanti",
+              "role": "Sekretaris I"
+            },
+            {
+              "id": "m-dh-03",
+              "name": "Yohanes Egsa Pradito",
+              "role": "Sekretaris II"
+            },
+            {
+              "id": "m-dh-04",
+              "name": "Tarsisius Catur Budi Nugraha",
+              "role": "Bendahara Umum"
+            },
+            {
+              "id": "m-dh-05",
+              "name": "Martina Kristianingrum",
+              "role": "Bendahara 1"
+            },
+            {
+              "id": "m-dh-06",
+              "name": "Tarcisius Sutrisna",
+              "role": "Bendahara 2"
+            },
+            {
+              "id": "m-dh-07",
+              "name": "Aloysia Maria Christ Sinta Indira",
+              "role": "Bendahara 3"
+            },
+            {
+              "id": "m-dh-08",
+              "name": "Yohanes Bagas Nurogo",
+              "role": "Koordinator Kawil & Kaling"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "79b6565b-c96f-43fa-a5fc-51295c6fd0ee",
-      "name": "lengkap",
-      "role": "abc",
-      "division": "abc",
-      "quote": "",
-      "email": "",
-      "phone": ""
+      "id": "s-bidang1",
+      "name": "BIDANG 1. LITURGI DAN PERIBADATAN",
+      "groups": [
+        {
+          "id": "g-b1-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b1-00",
+              "name": "Paulinus Deny Krisnanto",
+              "role": "Ketua Bidang Liturgi dan Peribadatan"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-01",
+          "name": "Tim Pelayanan Tata Perayaan dan Peribadatan",
+          "members": [
+            {
+              "id": "m-b1-01",
+              "name": "Ignatius Bayu Wicaksono"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-02",
+          "name": "Tim Pelayanan Prodiakon",
+          "members": [
+            {
+              "id": "m-b1-02",
+              "name": "Robertus Sudaryanta"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-03",
+          "name": "Tim Pelayanan Putra-Putri Altar",
+          "members": [
+            {
+              "id": "m-b1-03a",
+              "name": "Agnes Constantinova"
+            },
+            {
+              "id": "m-b1-03b",
+              "name": "Petrus Kanisius Gyda Gautama"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-04",
+          "name": "Tim Pelayanan Paduan Suara",
+          "members": [
+            {
+              "id": "m-b1-04",
+              "name": "Antonius Yulianto"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-05",
+          "name": "Tim Pelayanan Paramenta",
+          "members": [
+            {
+              "id": "m-b1-05",
+              "name": "Petrus Heriyanta"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-06",
+          "name": "Tim Pelayanan Lektor",
+          "members": [
+            {
+              "id": "m-b1-06",
+              "name": "Scholastica Meinanda Surya Puspitasari"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-07",
+          "name": "Tim Pelayanan Tata Altar",
+          "members": [
+            {
+              "id": "m-b1-07a",
+              "name": "Th Winarni"
+            },
+            {
+              "id": "m-b1-07b",
+              "name": "Gotfrida Endang Kuntari"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-08",
+          "name": "Tim Pelayanan Pemazmur & Dirigen",
+          "members": [
+            {
+              "id": "m-b1-08",
+              "name": "Cresensiana Maria Purwati"
+            }
+          ]
+        },
+        {
+          "id": "g-b1-09",
+          "name": "Tim Pelayanan Pemusik/Gamelan",
+          "members": [
+            {
+              "id": "m-b1-09a",
+              "name": "Eduardus Galih Putranto"
+            },
+            {
+              "id": "m-b1-09b",
+              "name": "Mateus Suyata"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-bidang2",
+      "name": "BIDANG 2. PEWARTAAN DAN EVANGELISASI",
+      "groups": [
+        {
+          "id": "g-b2-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b2-00",
+              "name": "Benigna Sita Yuliastuti Amijaya",
+              "role": "Ketua Bidang Pewartaan dan Evangelisasi"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-01",
+          "name": "Tim Pelayanan Sakramen Inisiasi",
+          "members": [
+            {
+              "id": "m-b2-01",
+              "name": "Bernardus Wibisono"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-02",
+          "name": "Tim Pelayanan Katekis",
+          "members": [
+            {
+              "id": "m-b2-02",
+              "name": "Anna Harsanti"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-03",
+          "name": "Tim Pelayanan Evangelisasi",
+          "members": [
+            {
+              "id": "m-b2-03",
+              "name": "Anastasia Ririn Safitri"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-04",
+          "name": "Tim Pelayanan Kerasulan Kitab Suci",
+          "members": [
+            {
+              "id": "m-b2-04a",
+              "name": "Eko Subekti"
+            },
+            {
+              "id": "m-b2-04b",
+              "name": "Fransiskus Xaverius Untoro"
+            },
+            {
+              "id": "m-b2-04c",
+              "name": "Blasius Sukarjo"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-05",
+          "name": "Tim Pelayanan Promosi Panggilan",
+          "members": [
+            {
+              "id": "m-b2-05",
+              "name": "Lucia Jumini Subardjo"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-06",
+          "name": "Tim Pelayanan Komunikasi Sosial",
+          "members": [
+            {
+              "id": "m-b2-06a",
+              "name": "Petrus Dedy"
+            },
+            {
+              "id": "m-b2-06b",
+              "name": "Filisia Gones Purwaningtyas"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-07",
+          "name": "Tim Pelayanan PIUD",
+          "members": [
+            {
+              "id": "m-b2-07",
+              "name": "Yustina Sulistyowati"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-08",
+          "name": "Tim Pelayanan PIA",
+          "members": [
+            {
+              "id": "m-b2-08a",
+              "name": "Agnes Kurnia Widyaningtyas"
+            },
+            {
+              "id": "m-b2-08b",
+              "name": "Anastasia Hani Nawang W"
+            },
+            {
+              "id": "m-b2-08c",
+              "name": "Maria Nova Ratna K."
+            }
+          ]
+        },
+        {
+          "id": "g-b2-09",
+          "name": "Tim Pelayanan PIR",
+          "members": [
+            {
+              "id": "m-b2-09",
+              "name": "Caecilia Tri Utami"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-10",
+          "name": "Tim Pelayanan PIOM",
+          "members": [
+            {
+              "id": "m-b2-10",
+              "name": "Antonius Tony Budi Santosa"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-11",
+          "name": "Tim Pelayanan PIOD",
+          "members": [
+            {
+              "id": "m-b2-11",
+              "name": "Ant. Yoedha Dwinanda"
+            }
+          ]
+        },
+        {
+          "id": "g-b2-12",
+          "name": "Tim Pelayanan PIUL",
+          "members": [
+            {
+              "id": "m-b2-12",
+              "name": "Theodorus Indarto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-bidang3",
+      "name": "BIDANG 3. PELAYANAN DAN KEMASYARAKATAN",
+      "groups": [
+        {
+          "id": "g-b3-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b3-00",
+              "name": "Albertus Budi Setiyawan",
+              "role": "Ketua Bidang Pelayanan dan Kemasyarakatan"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-01",
+          "name": "Tim Pelayanan PSE",
+          "members": [
+            {
+              "id": "m-b3-01a",
+              "name": "Thomas Joko"
+            },
+            {
+              "id": "m-b3-01b",
+              "name": "Th Indarsih"
+            },
+            {
+              "id": "m-b3-01c",
+              "name": "AG. Mujiyo"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-02",
+          "name": "Tim Pelayanan APP & Dansos",
+          "members": [
+            {
+              "id": "m-b3-02a",
+              "name": "C Pratiwi Retno"
+            },
+            {
+              "id": "m-b3-02b",
+              "name": "Benedekta Ambar Listyaningsih"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-03",
+          "name": "Tim Pelayanan Kesehatan",
+          "members": [
+            {
+              "id": "m-b3-03",
+              "name": "F.A Oklih Prawoko Hepi"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-04",
+          "name": "Tim Pelayanan Pendidikan",
+          "members": [
+            {
+              "id": "m-b3-04",
+              "name": "Kristina Wasiyati"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-05",
+          "name": "Tim Pelayanan Pangruktilaya",
+          "members": [
+            {
+              "id": "m-b3-05",
+              "name": "Tabitha Janti Purnamawati"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-06",
+          "name": "Tim Pelayanan HAK",
+          "members": [
+            {
+              "id": "m-b3-06",
+              "name": "Gregorius Ismono"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-07",
+          "name": "Tim Pelayanan Karya Kerasulan Kemasyarakatan (PK3)",
+          "members": [
+            {
+              "id": "m-b3-07",
+              "name": "Robertus Adam Agung S"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-08",
+          "name": "Tim Pelayanan Keadilan, Perdamaian & Keutuhan Ciptaan (KPKC)",
+          "members": [
+            {
+              "id": "m-b3-08",
+              "name": "D. Totok Sumantri"
+            }
+          ]
+        },
+        {
+          "id": "g-b3-09",
+          "name": "Tim Pelayanan BKSY",
+          "members": [
+            {
+              "id": "m-b3-09",
+              "name": "Christ Bangun Dwi Samekto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-bidang4",
+      "name": "BIDANG 4. PAGUYUBAN",
+      "groups": [
+        {
+          "id": "g-b4-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b4-00",
+              "name": "Yohanes Suranto",
+              "role": "Ketua Bidang Paguyuban"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-01",
+          "name": "Tim Pelayanan Ibu-ibu Paroki",
+          "members": [
+            {
+              "id": "m-b4-01",
+              "name": "Ermina Endang Sulastiningsih"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-02",
+          "name": "Tim Pelayanan Pastoral Keluarga",
+          "members": [
+            {
+              "id": "m-b4-02",
+              "name": "Paulus Himawan Setyo Wibowo"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-02b",
+          "name": "Tim Katekese Persiapan Hidup (KPHB)",
+          "members": [
+            {
+              "id": "m-b4-02b",
+              "name": "Timotius Maria Raditya Hernawa"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-03",
+          "name": "Tim Pelayanan Kesenian",
+          "members": [
+            {
+              "id": "m-b4-03",
+              "name": "Yusup Supono"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-04",
+          "name": "Tim Pelayanan Perpustakaan",
+          "members": [
+            {
+              "id": "m-b4-04",
+              "name": "Ludhgerus Hervin Etby Saputra"
+            }
+          ]
+        },
+        {
+          "id": "g-b4-05",
+          "name": "Ketua OMK Paroki",
+          "members": [
+            {
+              "id": "m-b4-05",
+              "name": "Yosafat Reinaldo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-bidang5",
+      "name": "BIDANG 5. SARANA PRASARANA DAN KERUMAHTANGGAAN",
+      "groups": [
+        {
+          "id": "g-b5-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b5-00",
+              "name": "Pius Priyosusilo",
+              "role": "Ketua Bidang Sarana Prasarana dan Kerumahtanggaan"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-01",
+          "name": "Tim Pelayanan Rumah Tangga Paroki",
+          "members": [
+            {
+              "id": "m-b5-01",
+              "name": "Maria Goretti Sugiyati"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-02",
+          "name": "Tim Pelayanan Rumah Tangga Pastoran",
+          "members": [
+            {
+              "id": "m-b5-02a",
+              "name": "Natalia Ana Yuliatun"
+            },
+            {
+              "id": "m-b5-02b",
+              "name": "Yohanes Sudarsono"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-02c",
+          "name": "CDKP",
+          "members": [
+            {
+              "id": "m-b5-02c",
+              "name": "Yustina Rini Pamungkas"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-03",
+          "name": "Tim Pelayanan Keamanan dan Parkir",
+          "members": [
+            {
+              "id": "m-b5-03a",
+              "name": "Ign. Samidi"
+            },
+            {
+              "id": "m-b5-03b",
+              "name": "Ant. Sarmoko"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-04",
+          "name": "Tim Pelayanan Listrik dan Audio-Visual",
+          "members": [
+            {
+              "id": "m-b5-04a",
+              "name": "Yohanes Supardi"
+            },
+            {
+              "id": "m-b5-04b",
+              "name": "Bartolomeus Rahmadi"
+            },
+            {
+              "id": "m-b5-04c",
+              "name": "Yohanes Suwarjono"
+            }
+          ]
+        },
+        {
+          "id": "g-b5-05",
+          "name": "Tim Pelayanan Pemeliharaan dan Inventaris",
+          "members": [
+            {
+              "id": "m-b5-05a",
+              "name": "Paulus Daryana"
+            },
+            {
+              "id": "m-b5-05b",
+              "name": "Yohanes Mujilin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-bidang6",
+      "name": "BIDANG 6. PENELITIAN DAN PENGEMBANGAN",
+      "groups": [
+        {
+          "id": "g-b6-ketua",
+          "name": "Ketua Bidang",
+          "members": [
+            {
+              "id": "m-b6-00",
+              "name": "Agustinus Eko Nugroho",
+              "role": "Ketua Bidang Penelitian dan Pengembangan"
+            }
+          ]
+        },
+        {
+          "id": "g-b6-01",
+          "name": "Tim Pelayanan Pendataan Umat",
+          "members": [
+            {
+              "id": "m-b6-01a",
+              "name": "Kristina Kristi Wardani"
+            },
+            {
+              "id": "m-b6-01b",
+              "name": "Langgeng Pawarto"
+            },
+            {
+              "id": "m-b6-01c",
+              "name": "Laurentius Toto Sihnugroho"
+            }
+          ]
+        },
+        {
+          "id": "g-b6-02",
+          "name": "Tim Pelayanan Pengembangan SDM",
+          "members": [
+            {
+              "id": "m-b6-02",
+              "name": "Timotius Maria Raditya Hernawa"
+            }
+          ]
+        },
+        {
+          "id": "g-b6-03",
+          "name": "Programasi dan Monev",
+          "members": [
+            {
+              "id": "m-b6-03",
+              "name": "Yohanes Widiyantara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s-adhok",
+      "name": "ADHOK",
+      "groups": [
+        {
+          "id": "g-adhok-01",
+          "name": "TCK (Tabungan Cinta Kasih)",
+          "members": [
+            {
+              "id": "m-adhok-01a",
+              "name": "FX. Sunardi"
+            },
+            {
+              "id": "m-adhok-01b",
+              "name": "Benedictus Hendro Benny"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
