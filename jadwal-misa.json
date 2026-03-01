@@ -70,6 +70,14 @@
           ],
           "kategori": "Misa Mingguan",
           "notes": "Misa Bahasa Indonesia"
+        },
+        {
+          "day": "Minggu Minggu Keempat",
+          "times": [
+            "17.00"
+          ],
+          "kategori": "Misa Mingguan",
+          "notes": "Misa Bahasa Jawa"
         }
       ]
     },
