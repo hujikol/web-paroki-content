@@ -12,12 +12,11 @@
       "location": "Kayunan, Donoharjo, Ngaglik, Sleman",
       "schedules": [
         {
-          "day": "Sabtu",
+          "day": "Sabtu Minggu Pertama",
           "times": [
             "16.00"
           ],
-          "kategori": "Misa Mingguan",
-          "notes": "Minggu Pertama dan Minggu Ketiga"
+          "kategori": "Misa Mingguan"
         }
       ]
     },
